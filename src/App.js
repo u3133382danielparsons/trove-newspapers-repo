@@ -3,19 +3,30 @@ import './App.css';
 
 class App extends Component {
   render() {
+    const {data} = this.props;
+    const NamesList = data.map(name => {
+      return(
+        <li key={name.id} className={name.place}>{name.title}</li>
+      )
+    })
+
+
+
+
     return (
-      <div className="App">
-        <div className="App-header">
-          <h2>Newspapers?</h2>
+      <div>
+        <header>
+          <h1>
+            Trove Newspapers
+          </h1>
+        </header>
+        <div className="flex-container">
+          <main>
+            <ul>
+              {NamesList}
+            </ul>
+          </main>
         </div>
-        <p className="App-intro">
-          Digitalised newspaper repository
-        </p>
-        <ul>
-          <li>Title 1</li>
-          <li>Title 2</li>
-          <li>Title 3</li>
-        </ul>
       </div>
     );
   }
