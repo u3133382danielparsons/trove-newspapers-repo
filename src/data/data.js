@@ -36,7 +36,7 @@ export default [
   },
   {
     id: 6,
-    title: 'Seraphina',
+    title: 'Daniel Parsons',
     place: 'sa'
   },
   {
@@ -46,23 +46,23 @@ export default [
   },
   {
     id: 8,
-    title: 'Tobias',
-    place: 'boy'
+    title: 'Queanbeyan Age (NSW : 1867 - 1904)',
+    place: 'nsw'
   },
   {
     id: 9,
-    title: 'Harper',
-    place: 'girl'
+    title: 'Quiz and the Lantern (Adelaide, SA : 1890 - 1900)',
+    place: 'sa'
   },
   {
     id: 10,
-    title: 'Mabe',
-    place: 'girl'
+    title: 'The Ulladulla and Milton Times (NSW : 1891 - 1917)',
+    place: 'nsw'
   },
   {
     id: 11,
-    title: 'Iris',
-    place: 'girl'
+    title: 'Tribune (Sydney, NSW : 1939 - 1976)',
+    place: 'nsw'
   },
   {
     id: 12,
@@ -81,18 +81,18 @@ export default [
   },
   {
     id: 15,
-    title: 'Poppy',
-    place: 'girl'
+    title: 'Primary Producer (Perth, WA : 1916 - 1921)',
+    place: 'wa'
   },
   {
     id: 16,
-    title: 'Aurora',
-    place: 'girl'
+    title: 'The Monitor (Sydney, NSW : 1826 - 1828)',
+    place: 'nsw'
   },
   {
     id: 17,
-    title: 'Wyatt',
-    place: 'boy'
+    title: 'The Millicent Times (SA : 1891 - 1905)',
+    place: 'sa'
   },
   {
     id: 18,
@@ -101,38 +101,38 @@ export default [
   },
   {
     id: 19,
-    title: 'Emily',
-    place: 'girl'
+    title: 'The Menzies Miner (WA : 1896 - 1901)',
+    place: 'wa'
   },
   {
     id: 20,
-    title: 'Sebastian',
-    place: 'boy'
+    title: 'The Moruya Times and South Coast Journal (NSW : 1888 - 1915)',
+    place: 'nsw'
   },
   {
     id: 21,
-    title: 'Gabriel',
-    place: 'boy'
+    title: 'The Mount Lyell Standard and Strahan Gazette (Queenstown, Tas. : 1896 - 1902)',
+    place: 'tas'
   },
   {
     id: 22,
-    title: 'Charlie',
-    place: 'boy'
+    title: 'Mildura Telegraph and Darling and Lower Murray Advocate (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 23,
-    title: 'Isabella',
-    place: 'girl'
+    title: 'Quiz (Adelaide, SA : 1900 - 1909)',
+    place: 'qld'
   },
   {
     id: 24,
-    title: 'Elliot',
-    place: 'boy'
+    title: 'The Maffra Spectator (Vic. : 1882 - 1920)',
+    place: 'vic'
   },
   {
     id: 25,
-    title: 'Declan',
-    place: 'boy'
+    title: 'Toowoomba Chronicle and Darling Downs General Advertiser (Qld. : 1875 - 1902)',
+    place: 'qld'
   },
   {
     id: 26,
@@ -141,13 +141,13 @@ export default [
   },
   {
     id: 27,
-    title: 'Gemma',
-    place: 'girl'
+    title: 'Port Augusta Dispatch and Flinders\' Advertiser (SA : 1880 - 1884)',
+    place: 'sa'
   },
   {
     id: 28,
-    title: 'Lucas',
-    place: 'boy'
+    title: 'Weekly Supplement to Building (Sydney, NSW : 1908 - 1909)',
+    place: 'nsw'
   },
   {
     id: 29,
@@ -156,18 +156,18 @@ export default [
   },
   {
     id: 30,
-    title: 'Khaleesi',
-    place: 'girl'
+    title: 'Upper Hunter Courier (Murrurundi, NSW : 1871)',
+    place: 'nsw'
   },
   {
     id: 31,
-    title: 'Austin',
-    place: 'boy'
+    title: 'Southern Star (Bega, NSW : 1900 - 1923)',
+    place: 'nsw'
   },
   {
     id: 32,
-    title: 'Matilda',
-    place: 'girl'
+    title: 'Voice (Hobart, Tas. : 1931 - 1953)',
+    place: 'tas'
   },
   {
     id: 33,
@@ -181,13 +181,13 @@ export default [
   },
   {
     id: 35,
-    title: 'Nicholas',
-    place: 'boy'
+    title: 'Maryborough Chronicle (Qld. : 1947 - 1954)',
+    place: 'qld'
   },
   {
     id: 36,
-    title: 'Ronan',
-    place: 'boy'
+    title: 'Party (Sydney, NSW : 1942)',
+    place: 'nsw'
   },
   {
     id: 37,
@@ -226,13 +226,13 @@ export default [
   },
   {
     id: 44,
-    title: 'Zane',
-    place: 'boy'
+    title: 'News (Adelaide, SA : 1923 - 1954)',
+    place: 'sa'
   },
   {
     id: 45,
-    title: 'Grace',
-    place: 'girl'
+    title: 'The St George Call (Kogarah, NSW : 1904 - 1957)',
+    place: 'nsw'
   },
   {
     id: 46,
@@ -241,13 +241,13 @@ export default [
   },
   {
     id: 47,
-    title: 'Clara',
-    place: 'girl'
+    title: 'Mackay Mercury and South Kennedy Advertiser (Qld. : 1867 - 1887)',
+    place: 'qld'
   },
   {
     id: 48,
-    title: 'Julian',
-    place: 'boy'
+    title: 'The Manganese Record, Peak Hill, Nullagine and Marble Bar Gazette (Meekatharra, WA : 1928 - 1941)',
+    place: 'wa'
   },
   {
     id: 49,
@@ -256,8 +256,8 @@ export default [
   },
   {
     id: 50,
-    title: 'Nolan',
-    place: 'boy'
+    title: 'Truth (Sydney, NSW : 1894 - 1954)',
+    place: 'nsw'
   },
   {
     id: 51,
@@ -266,13 +266,13 @@ export default [
   },
   {
     id: 52,
-    title: 'Felix',
-    place: 'boy'
+    title: 'Meekatharra Miner (WA : 1909 - 1918)',
+    place: 'wa'
   },
   {
     id: 53,
-    title: 'Aryan',
-    place: 'boy'
+    title: 'The Mountain Daily (Katoomba, NSW : 1919 - 1920)',
+    place: 'nsw'
   },
   {
     id: 54,
@@ -281,18 +281,18 @@ export default [
   },
   {
     id: 55,
-    title: 'Sloane',
-    place: 'girl'
+    title: 'The North Western Advocate and the Emu Bay Times (Tas. : 1899 - 1919)',
+    place: 'tas'
   },
   {
     id: 56,
-    title: 'Zoe',
-    place: 'girl'
+    title: 'The Mount Barker Courier and Onkaparinga and Gumeracha Advertiser (SA : 1880 - 1954)',
+    place: 'sa'
   },
   {
     id: 57,
-    title: 'Penelope',
-    place: 'girl'
+    title: 'Portland Guardian (Vic. : 1876 - 1953)',
+    place: 'vic'
   },
   {
     id: 58,
@@ -301,18 +301,18 @@ export default [
   },
   {
     id: 59,
-    title: 'Julia',
-    place: 'girl'
+    title: 'The Southern Mail (Bowral, NSW : 1889 - 1954)',
+    place: 'nsw'
   },
   {
     id: 60,
-    title: 'Theo',
-    place: 'boy'
+    title: 'Raymond Terrace Examiner and Lower Hunter and Port Stephens Advertiser (NSW : 1912 - 1955)',
+    place: 'nsw'
   },
   {
     id: 61,
-    title: 'Nathan',
-    place: 'boy'
+    title: 'Suedaustralische Zeitung (Adelaide, SA : 1850 - 1851)',
+    place: 'sa'
   },
   {
     id: 62,
@@ -321,23 +321,23 @@ export default [
   },
   {
     id: 63,
-    title: 'Josiah',
-    place: 'boy'
+    title: 'New Call and Bailey\'s Weekly (Perth, WA : 1934 - 1940)',
+    place: 'wa'
   },
   {
     id: 64,
-    title: 'Harrison',
-    place: 'boy'
+    title: 'The Observer (Hobart, Tas. : 1845 - 1846)',
+    place: 'tas'
   },
   {
     id: 65,
-    title: 'Archer',
-    place: 'boy'
+    title: 'The Port Phillip Patriot and Morning Advertiser (Vic. : 1845 - 1848)',
+    place: 'vic'
   },
   {
     id: 66,
-    title: 'Ellie',
-    place: 'girl'
+    title: 'Recorder (Port Pirie, SA : 1919 - 1954)',
+    place: 'sa'
   },
   {
     id: 67,
@@ -351,18 +351,18 @@ export default [
   },
   {
     id: 69,
-    title: 'Rhys',
-    place: 'boy'
+    title: 'The Proserpine Guardian (Qld. : 1935 - 1954)',
+    place: 'qld'
   },
   {
     id: 70,
-    title: 'Evelyn',
-    place: 'girl'
+    title: 'Standard (Port Melbourne, Vic. : 1884 - 1914)',
+    place: 'vic'
   },
   {
     id: 71,
-    title: 'Isabel',
-    place: 'girl'
+    title: 'The Register (Adelaide, SA : 1901 - 1929)',
+    place: 'sa'
   },
   {
     id: 72,
@@ -381,13 +381,13 @@ export default [
   },
   {
     id: 75,
-    title: 'Rose',
-    place: 'girl'
+    title: 'Morning Star and Commercial Advertiser (Hobart Town, Tas. : 1834 - 1835)',
+    place: 'tas'
   },
   {
     id: 76,
-    title: 'Axel',
-    place: 'boy'
+    title: 'Port Augusta Dispatch (SA : 1884)',
+    place: 'sa'
   },
   {
     id: 77,
@@ -396,33 +396,33 @@ export default [
   },
   {
     id: 78,
-    title: 'Cora',
-    place: 'girl'
+    title: 'Ringwood and Croydon Chronicle (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 79,
-    title: 'David',
-    place: 'boy'
+    title: 'Southern Argus (Goulburn, NSW : 1881 - 1885)',
+    place: 'nsw'
   },
   {
     id: 80,
-    title: 'Miles',
-    place: 'boy'
+    title: 'The Possum (Fremantle, WA : 1890)',
+    place: 'wa'
   },
   {
     id: 81,
-    title: 'Clementine',
-    place: 'girl'
+    title: 'Port Phillip Patriot and Melbourne Advertiser (Vic. : 1839 - 1845)',
+    place: 'vic'
   },
   {
     id: 82,
-    title: 'Sophia',
-    place: 'girl'
+    title: 'The Sydney Herald (NSW : 1831 - 1842)',
+    place: 'nsw'
   },
   {
     id: 83,
-    title: 'Eloise',
-    place: 'girl'
+    title: 'South Coast Bulletin (Southport, Qld. : 1929 - 1954)',
+    place: 'qld'
   },
   {
     id: 84,
@@ -431,13 +431,13 @@ export default [
   },
   {
     id: 85,
-    title: 'Maeve',
-    place: 'girl'
+    title: 'The Victorian Farmers Journal and Gardeners Chronicle (Melbourne, Vic. : 1860 - 1862)',
+    place: 'vic'
   },
   {
     id: 86,
-    title: 'Nora',
-    place: 'girl'
+    title: 'Quambatook Times (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 87,
@@ -446,8 +446,8 @@ export default [
   },
   {
     id: 88,
-    title: 'Adeline',
-    place: 'girl'
+    title: 'Observer (Adelaide, SA : 1905 - 1931)',
+    place: 'wa'
   },
   {
     id: 89,
@@ -456,13 +456,13 @@ export default [
   },
   {
     id: 90,
-    title: 'Oscar',
-    place: 'boy'
+    title: 'Quiz (Adelaide, SA : 1889 - 1890)',
+    place: 'sa'
   },
   {
     id: 91,
-    title: 'Ruby',
-    place: 'girl'
+    title: 'Tasmanian Punch (Hobart Town, Tas. : 1869 - 1870; 1877 - 1878)',
+    place: 'tas'
   },
   {
     id: 92,
@@ -471,28 +471,28 @@ export default [
   },
   {
     id: 93,
-    title: 'Mia',
-    place: 'girl'
+    title: 'Murray Pioneer (Renmark, SA : 1942 - 1950)',
+    place: 'sa'
   },
   {
     id: 94,
-    title: 'Jude',
-    place: 'boy'
+    title: 'Standard (Frankston, Vic. : 1939 - 1949)',
+    place: 'vic'
   },
   {
     id: 95,
-    title: 'Evie',
-    place: 'girl'
+    title: 'The Sun (Kalgoorlie, WA : 1898 - 1919)',
+    place: 'wa'
   },
   {
     id: 96,
-    title: 'Luna',
-    place: 'girl'
+    title: 'Vigilante (Melbourne, Vic. : 1918)',
+    place: 'vic'
   },
   {
     id: 97,
-    title: 'Wren',
-    place: 'girl'
+    title: 'The Port Augusta Dispatch, Newcastle and Flinders Chronicle (SA : 1885 - 1916)',
+    place: 'sa'
   },
   {
     id: 98,
@@ -511,18 +511,18 @@ export default [
   },
   {
     id: 101,
-    title: 'Emmeline',
-    place: 'girl'
+    title: 'Victorian Express (Geraldton, WA : 1878 - 1894)',
+    place: 'wa'
   },
   {
     id: 102,
-    title: 'Hugo',
-    place: 'boy'
+    title: 'Port Phillip Gazette (Vic. : 1851)',
+    place: 'vic'
   },
   {
     id: 103,
-    title: 'Stella',
-    place: 'girl'
+    title: 'Minyip Guardian and Sheep Hills Advocate (Vic. : 1915 - 1918)',
+    place: 'vic'
   },
   {
     id: 104,
@@ -536,23 +536,23 @@ export default [
   },
   {
     id: 106,
-    title: 'Jayden',
-    place: 'boy'
+    title: 'The Manaro Mercury, and Cooma and Bombala Advertiser (NSW : 1862 - 1931)',
+    place: 'nsw'
   },
   {
     id: 107,
-    title: 'Daisy',
-    place: 'girl'
+    title: 'The Midland News (Oatlands, Tas. : 1902 - 1904)',
+    place: 'tas'
   },
   {
     id: 108,
-    title: 'Callum',
-    place: 'boy'
+    title: 'The Moree Examiner and General Advertiser (NSW : 1899)',
+    place: 'nsw'
   },
   {
     id: 109,
-    title: 'Jasper',
-    place: 'boy'
+    title: 'Shepparton News (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 110,
@@ -581,13 +581,13 @@ export default [
   },
   {
     id: 115,
-    title: 'Ada',
-    place: 'girl'
+    title: 'The North West Post (Formby, Tas. : 1887 - 1916)',
+    place: 'tas'
   },
   {
     id: 116,
-    title: 'Scarlett',
-    place: 'girl'
+    title: 'Port Augusta Dispatch (SA : 1877 - 1880)',
+    place: 'sa'
   },
   {
     id: 117,
@@ -646,8 +646,8 @@ export default [
   },
   {
     id: 128,
-    title: 'Arthur',
-    place: 'boy'
+    title: 'Moree Gwydir Examiner and General Advertiser (NSW : 1901 - 1940)',
+    place: 'nsw'
   },
   {
     id: 129,
@@ -656,8 +656,8 @@ export default [
   },
   {
     id: 130,
-    title: 'Samuel',
-    place: 'boy'
+    title: 'The Mildura Cultivator (Vic. : 1888 - 1920)',
+    place: 'vic'
   },
   {
     id: 131,
@@ -666,8 +666,8 @@ export default [
   },
   {
     id: 132,
-    title: 'Bodhi',
-    place: 'boy'
+    title: 'Rockhampton Bulletin and Central Queensland Advertiser (Qld. : 1861 - 1871)',
+    place: 'qld'
   },
   {
     id: 133,
@@ -676,13 +676,13 @@ export default [
   },
   {
     id: 134,
-    title: 'Griffin',
-    place: 'boy'
+    title: 'The Queenscliff Sentinel (Vic. : 1884 - 1885)',
+    place: 'vic'
   },
   {
     id: 135,
-    title: 'Graham',
-    place: 'boy'
+    title: 'The Star (Ballarat, Vic. : 1855 - 1864)',
+    place: 'vic'
   },
   {
     id: 136,
@@ -691,8 +691,8 @@ export default [
   },
   {
     id: 137,
-    title: 'Hudson',
-    place: 'boy'
+    title: 'The South Coast Express (Surfers Paradise, Qld. : 1949 - 1951)',
+    place: 'qld'
   },
   {
     id: 138,
@@ -701,13 +701,13 @@ export default [
   },
   {
     id: 139,
-    title: 'Levi',
-    place: 'boy'
+    title: 'Sparks\' Fortnightly (Perth, WA : 1916 - 1919)',
+    place: 'wa'
   },
   {
     id: 140,
-    title: 'Nova',
-    place: 'girl'
+    title: 'Wagga Wagga Advertiser (NSW : 1875 - 1910)',
+    place: 'nsw'
   },
   {
     id: 141,
@@ -721,8 +721,8 @@ export default [
   },
   {
     id: 143,
-    title: '',
-    place: ''
+    title: 'The Tasmanian Telegraph (Hobart Town, Tas. : 1858 - 1859)',
+    place: 'tas'
   },
   {
     id: 144,
@@ -731,18 +731,18 @@ export default [
   },
   {
     id: 145,
-    title: 'Alice',
-    place: 'girl'
+    title: 'The Narracoorte Herald (SA : 1875 - 1954)',
+    place: 'sa'
   },
   {
     id: 146,
-    title: 'Simon',
-    place: 'boy'
+    title: 'The North Coast Standard (Latrobe, Tas. : 1890 - 1894)',
+    place: 'tas'
   },
   {
     id: 147,
-    title: 'Ella',
-    place: 'girl'
+    title: 'The Northern Sportsman (Innisfail, Qld. : 1928)',
+    place: 'qld'
   },
   {
     id: 148,
@@ -756,8 +756,8 @@ export default [
   },
   {
     id: 150,
-    title: 'Madeline',
-    place: 'girl'
+    title: 'The Star (Sydney, NSW : 1845 - 1846)',
+    place: 'nsw'
   },
   {
     id: 151,
@@ -786,8 +786,8 @@ export default [
   },
   {
     id: 156,
-    title: 'Alexander',
-    place: 'boy'
+    title: 'The Northern Mining Register (Charters Towers, Qld. : 1891 - 1892)',
+    place: 'qld'
   },
   {
     id: 157,
@@ -816,23 +816,23 @@ export default [
   },
   {
     id: 162,
-    title: 'Esme',
-    place: 'girl'
+    title: 'Moorabbin News (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 163,
-    title: 'Elizabeth',
-    place: 'girl'
+    title: 'Wagga Wagga Express (NSW : 1879 - 1917)',
+    place: 'nsw'
   },
   {
     id: 164,
-    title: 'Xavier',
-    place: 'boy'
+    title: 'The Newcastle Argus and District Advertiser (NSW : 1916)',
+    place: 'nsw'
   },
   {
     id: 165,
-    title: 'Piper',
-    place: 'girl'
+    title: 'The Possum (Perth, WA : 1887 - 1888)',
+    place: 'wa'
   },
   {
     id: 166,
@@ -846,8 +846,8 @@ export default [
   },
   {
     id: 168,
-    title: 'Olive',
-    place: 'girl'
+    title: 'Wagga Wagga Advertiser and Riverine Reporter (NSW : 1868 - 1875)',
+    place: 'nsw'
   },
   {
     id: 169,
@@ -861,8 +861,8 @@ export default [
   },
   {
     id: 171,
-    title: 'Eli',
-    place: 'boy'
+    title: 'The Record of the Blue Mountains (Katoomba, NSW : 1924)',
+    place: 'nsw'
   },
   {
     id: 172,
@@ -871,8 +871,8 @@ export default [
   },
   {
     id: 173,
-    title: 'Josephine',
-    place: 'girl'
+    title: 'Out Of Work (Sydney, NSW : 1922)',
+    place: 'wa'
   },
   {
     id: 174,
@@ -936,8 +936,8 @@ export default [
   },
   {
     id: 186,
-    title: 'Cordelia',
-    place: 'girl'
+    title: 'Violet Town Sentinel (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 187,
@@ -946,18 +946,18 @@ export default [
   },
   {
     id: 188,
-    title: 'George',
-    place: 'boy'
+    title: 'The Port Adelaide Post Shipping Gazette, Farmers and Commercial Register (Port Adelaide, SA : 1876)',
+    place: 'sa'
   },
   {
     id: 189,
-    title: 'Jackson',
-    place: 'boy'
+    title: 'The New South Wales Examiner (Sydney, NSW : 1842)',
+    place: 'nsw'
   },
   {
     id: 190,
-    title: 'Jacob',
-    place: 'boy'
+    title: 'South Coast News (Southport, Qld. : 1952 - 1954)',
+    place: 'qld'
   },
   {
     id: 191,
@@ -971,13 +971,13 @@ export default [
   },
   {
     id: 193,
-    title: 'Ryder',
-    place: 'boy'
+    title: 'The Tasmanian Times (Hobart Town, Tas. : 1867 - 1870)',
+    place: 'tas'
   },
   {
     id: 194,
-    title: 'Annabelle',
-    place: 'girl'
+    title: 'Tambellup Times (WA : 1912 - 1924)',
+    place: 'wa'
   },
   {
     id: 195,
@@ -1031,8 +1031,8 @@ export default [
   },
   {
     id: 205,
-    title: '',
-    place: ''
+    title: 'Nor-West Echo (Broome, WA : 1914 - 1918)',
+    place: 'wa'
   },
   {
     id: 206,
@@ -1051,8 +1051,8 @@ export default [
   },
   {
     id: 209,
-    title: '',
-    place: ''
+    title: 'The Tasmanian Tribune (Hobart Town, Tas. : 1872 - 1876)',
+    place: 'tas'
   },
   {
     id: 210,
@@ -1061,18 +1061,18 @@ export default [
   },
   {
     id: 211,
-    title: '',
-    place: ''
+    title: 'Queanbeyan Age (NSW : 1907 - 1915)',
+    place: 'nsw'
   },
   {
     id: 212,
-    title: '',
-    place: ''
+    title: 'Toodyay Herald (WA : 1912 - 1954)',
+    place: 'wa'
   },
   {
     id: 213,
-    title: '',
-    place: ''
+    title: 'The Northern Miner (Charters Towers, Qld. : 1874 - 1954)',
+    place: 'qld'
   },
   {
     id: 214,
@@ -1111,8 +1111,8 @@ export default [
   },
   {
     id: 221,
-    title: '',
-    place: ''
+    title: 'Port Adelaide News and Lefevre\'s Peninsula Advertiser (SA : 1883 - 1897)',
+    place: 'sa'
   },
   {
     id: 222,
@@ -1136,8 +1136,8 @@ export default [
   },
   {
     id: 226,
-    title: '',
-    place: ''
+    title: 'Quorn Mercury (SA : 1895 - 1954)',
+    place: 'sa'
   },
   {
     id: 227,
@@ -1151,13 +1151,13 @@ export default [
   },
   {
     id: 229,
-    title: '',
-    place: ''
+    title: 'The Queenslander (Brisbane, Qld. : 1866 - 1939)',
+    place: 'qld'
   },
   {
     id: 230,
-    title: '',
-    place: ''
+    title: 'Queanbeyan Age and General Advertiser (NSW : 1864 - 1867)',
+    place: 'nsw'
   },
   {
     id: 231,
@@ -1201,7 +1201,7 @@ export default [
   },
   {
     id: 240,
-    title: 'Albany Advertiser (WA : 1897 - 1950)View title info',
+    title: 'Albany Advertiser (WA : 1897 - 1950)',
     place: 'wa'
   },
   {
@@ -1241,13 +1241,13 @@ export default [
   },
   {
     id: 248,
-    title: '',
-    place: ''
+    title: 'Queensland Times, Ipswich Herald and General Advertiser (Qld. : 1861 - 1908)',
+    place: 'qld'
   },
   {
     id: 249,
-    title: '',
-    place: ''
+    title: 'Sandringham News (Vic. : 1918)',
+    place: 'vic'
   },
   {
     id: 250,
@@ -1256,13 +1256,13 @@ export default [
   },
   {
     id: 251,
-    title: '',
-    place: ''
+    title: 'Port Philip Gazette and Settler\'s Journal (Vic. : 1845 - 1850)',
+    place: 'vic'
   },
   {
     id: 252,
-    title: '',
-    place: ''
+    title: 'Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)',
+    place: 'sa'
   },
   {
     id: 253,
@@ -1286,8 +1286,8 @@ export default [
   },
   {
     id: 257,
-    title: '',
-    place: ''
+    title: 'Nepean Times (Penrith, NSW : 1882 - 1962)',
+    place: 'nsw'
   },
   {
     id: 258,
@@ -1331,8 +1331,8 @@ export default [
   },
   {
     id: 266,
-    title: '',
-    place: ''
+    title: 'Mornington Standard (Frankston, Vic. : 1911 - 1920)',
+    place: 'vic'
   },
   {
     id: 267,
@@ -1341,8 +1341,8 @@ export default [
   },
   {
     id: 268,
-    title: '',
-    place: ''
+    title: 'Truth (Perth, WA : 1903 - 1931)',
+    place: 'wa'
   },
   {
     id: 269,
@@ -1351,8 +1351,8 @@ export default [
   },
   {
     id: 270,
-    title: '',
-    place: ''
+    title: 'The Toowoomba Chronicle and Queensland Advertiser (Qld. : 1861 - 1875)',
+    place: 'qld'
   },
   {
     id: 271,
@@ -1366,18 +1366,18 @@ export default [
   },
   {
     id: 273,
-    title: '',
-    place: ''
+    title: 'Southern Queensland Bulletin (Southport, Qld. : 1888 - 1891)',
+    place: 'qld'
   },
   {
     id: 274,
-    title: '',
-    place: ''
+    title: 'Riponshire Advocate (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 275,
     title: 'The Hummer (Wagga Wagga, NSW : 1891 - 1892)',
-    place: ''
+    place: 'nsw'
   },
   {
     id: 276,
@@ -1396,8 +1396,8 @@ export default [
   },
   {
     id: 279,
-    title: '',
-    place: ''
+    title: 'Referee (Sydney, NSW : 1886 - 1939)',
+    place: 'nsw'
   },
   {
     id: 280,
@@ -1406,8 +1406,8 @@ export default [
   },
   {
     id: 281,
-    title: '',
-    place: ''
+    title: 'The Northern Herald (Cairns, Qld. : 1913 - 1939)',
+    place: 'qld'
   },
   {
     id: 282,
@@ -1436,8 +1436,8 @@ export default [
   },
   {
     id: 287,
-    title: '',
-    place: ''
+    title: 'The Omnibus and Sydney Spectator (NSW : 1841 - 1843)',
+    place: 'wa'
   },
   {
     id: 288,
@@ -1456,8 +1456,8 @@ export default [
   },
   {
     id: 291,
-    title: '',
-    place: ''
+    title: 'Stawell News and Pleasant Creek Chronicle (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 292,
@@ -1471,8 +1471,8 @@ export default [
   },
   {
     id: 294,
-    title: '',
-    place: ''
+    title: 'The North Western Chronicle (Latrobe, Tas. : 1887 - 1888)',
+    place: 'tas'
   },
   {
     id: 295,
@@ -1501,8 +1501,8 @@ export default [
   },
   {
     id: 300,
-    title: '',
-    place: ''
+    title: 'Townsville Daily Bulletin (Qld. : 1907 - 1954)',
+    place: 'qld'
   },
   {
     id: 301,
@@ -1516,13 +1516,13 @@ export default [
   },
   {
     id: 303,
-    title: '',
-    place: ''
+    title: 'The Uralla News (NSW : 1904 - 1907)',
+    place: 'nsw'
   },
   {
     id: 304,
-    title: '',
-    place: ''
+    title: 'Western Mail (Perth, WA : 1885 - 1954)',
+    place: 'wa'
   },
   {
     id: 305,
@@ -1531,13 +1531,13 @@ export default [
   },
   {
     id: 306,
-    title: '',
-    place: ''
+    title: 'Williamstown Chronicle (Vic. : 1856 - 1954)',
+    place: 'vic'
   },
   {
     id: 307,
-    title: '',
-    place: ''
+    title: 'Queanbeyan Age and Queanbeyan Observer (NSW : 1915 - 1927)',
+    place: 'nsw'
   },
   {
     id: 308,
@@ -1576,13 +1576,13 @@ export default [
   },
   {
     id: 315,
-    title: '',
-    place: ''
+    title: 'Northern Argus (Rockhampton, Qld. : 1865 - 1874)',
+    place: 'qld'
   },
   {
     id: 316,
-    title: '',
-    place: ''
+    title: 'Man on the Land (Gosford, NSW : 1936 - 1938)',
+    place: 'nsw'
   },
   {
     id: 317,
@@ -1596,8 +1596,8 @@ export default [
   },
   {
     id: 319,
-    title: '',
-    place: ''
+    title: 'The Pennant (Penola, SA : 1946 - 1955)',
+    place: 'sa'
   },
   {
     id: 320,
@@ -1611,13 +1611,13 @@ export default [
   },
   {
     id: 322,
-    title: '',
-    place: ''
+    title: 'Maldon News (Vic. : 1916 - 1918)',
+    place: 'vic'
   },
   {
     id: 323,
-    title: '',
-    place: ''
+    title: 'Port Adelaide News and Commercial and Shipping Gazette (SA : 1878)',
+    place: 'sa'
   },
   {
     id: 324,
@@ -1626,8 +1626,8 @@ export default [
   },
   {
     id: 325,
-    title: '',
-    place: ''
+    title: 'Tasmanian Weekly Dispatch (Hobart Town, Tas. : 1839 - 1841)',
+    place: 'tas'
   },
   {
     id: 326,
@@ -1636,13 +1636,13 @@ export default [
   },
   {
     id: 327,
-    title: '',
-    place: ''
+    title: 'Rochester Express (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 328,
-    title: '',
-    place: ''
+    title: 'The Uralla Times (NSW : 1923 - 1954)',
+    place: 'nsw'
   },
   {
     id: 329,
@@ -1661,8 +1661,8 @@ export default [
   },
   {
     id: 332,
-    title: '',
-    place: ''
+    title: 'Southport and Nerang Bulletin (Qld. : 1893)',
+    place: 'qld'
   },
   {
     id: 333,
@@ -1676,13 +1676,13 @@ export default [
   },
   {
     id: 335,
-    title: '',
-    place: ''
+    title: 'Queensland Times (Ipswich, Qld. : 1909 - 1954)',
+    place: 'qld'
   },
   {
     id: 336,
-    title: '',
-    place: ''
+    title: 'Queenscliff Sentinel, Drysdale, ... (Vic. : 1882 - 1884)',
+    place: 'vic'
   },
   {
     id: 337,
@@ -1716,18 +1716,18 @@ export default [
   },
   {
     id: 343,
-    title: '',
-    place: ''
+    title: 'North-Eastern Advertiser (Scottsdale, Tas. : 1909 - 1954)',
+    place: 'tas'
   },
   {
     id: 344,
-    title: '',
-    place: ''
+    title: 'Narrogin Observer and Williams District Representative (WA : 1905 - 1918)',
+    place: 'wa'
   },
   {
     id: 345,
-    title: '',
-    place: ''
+    title: 'The North Queensland Register (Townsville, Qld. : 1892 - 1905)',
+    place: 'qld'
   },
   {
     id: 346,
@@ -1736,8 +1736,8 @@ export default [
   },
   {
     id: 347,
-    title: '',
-    place: ''
+    title: 'Port Philip Gazette (Vic. : 1838 - 1845)',
+    place: 'vic'
   },
   {
     id: 348,
@@ -1746,8 +1746,8 @@ export default [
   },
   {
     id: 349,
-    title: '',
-    place: ''
+    title: 'The Star (Sydney, NSW : 1909 - 1910)',
+    place: 'nsw'
   },
   {
     id: 350,
@@ -1756,8 +1756,8 @@ export default [
   },
   {
     id: 351,
-    title: '',
-    place: ''
+    title: 'Stock and Land (Melbourne, Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 352,
@@ -1771,23 +1771,23 @@ export default [
   },
   {
     id: 354,
-    title: '',
-    place: ''
+    title: 'Young Witness (NSW : 1915 - 1923)',
+    place: 'nsw'
   },
   {
     id: 355,
-    title: '',
-    place: ''
+    title: 'The Uralla Times and District Advocate (NSW : 1915 - 1923)',
+    place: 'nsw'
   },
   {
     id: 356,
-    title: '',
-    place: ''
+    title: 'Tasmanian Weekly News (Hobart Town, Tas. : 1858)',
+    place: 'tas'
   },
   {
     id: 357,
-    title: '',
-    place: ''
+    title: 'Werriwa Times and Goulburn District News (NSW : 1901)',
+    place: 'nsw'
   },
   {
     id: 358,
@@ -1811,8 +1811,8 @@ export default [
   },
   {
     id: 362,
-    title: '',
-    place: ''
+    title: 'The Star and Working Man\'s Guardian (Parramatta, NSW : 1844 - 1845)',
+    place: 'nsw'
   },
   {
     id: 363,
@@ -1831,8 +1831,8 @@ export default [
   },
   {
     id: 366,
-    title: '',
-    place: ''
+    title: 'Morning Chronicle (Sydney, NSW : 1843 - 1846)',
+    place: 'nsw'
   },
   {
     id: 367,
@@ -1871,13 +1871,13 @@ export default [
   },
   {
     id: 374,
-    title: '',
-    place: ''
+    title: 'The Romsey Examiner (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 375,
-    title: '',
-    place: ''
+    title: 'The Tasmanian and Austral-Asiatic Review (Hobart Town, Tas. : 1844 - 1845)',
+    place: 'tas'
   },
   {
     id: 376,
@@ -1886,18 +1886,18 @@ export default [
   },
   {
     id: 377,
-    title: '',
-    place: ''
+    title: 'Tasmanian and Port Dalrymple Advertiser (Launceston, Tas. : 1825)',
+    place: 'tas'
   },
   {
     id: 378,
-    title: '',
-    place: ''
+    title: 'Southern Morning Herald (Goulburn, NSW : 1920 - 1923)',
+    place: 'nsw'
   },
   {
     id: 379,
-    title: '',
-    place: ''
+    title: 'Warwick Argus (Qld. : 1879 - 1901)',
+    place: 'qld'
   },
   {
     id: 380,
@@ -1906,8 +1906,8 @@ export default [
   },
   {
     id: 381,
-    title: '',
-    place: ''
+    title: 'Warwick Argus and Tenterfield Chronicle (Qld. : 1866 - 1879)',
+    place: 'qld'
   },
   {
     id: 382,
@@ -1916,8 +1916,8 @@ export default [
   },
   {
     id: 383,
-    title: '',
-    place: ''
+    title: 'Warwick Daily News (Qld. : 1919 -1954)',
+    place: 'qld'
   },
   {
     id: 384,
@@ -1931,8 +1931,8 @@ export default [
   },
   {
     id: 386,
-    title: '',
-    place: ''
+    title: 'Murray Pioneer and Australian River Record (Renmark, SA : 1913 - 1942)',
+    place: 'sa'
   },
   {
     id: 387,
@@ -1941,8 +1941,8 @@ export default [
   },
   {
     id: 388,
-    title: '',
-    place: ''
+    title: 'The Mercury (Hobart, Tas. : 1860 - 1954)',
+    place: 'tas'
   },
   {
     id: 389,
@@ -1956,18 +1956,18 @@ export default [
   },
   {
     id: 391,
-    title: '',
-    place: ''
+    title: 'Snowy River Mail (Orbost, Vic. : 1911 - 1918)',
+    place: 'vic'
   },
   {
     id: 392,
-    title: '',
-    place: ''
+    title: 'The Maitland Weekly Mercury (NSW : 1894 - 1931)',
+    place: 'nsw'
   },
   {
     id: 393,
-    title: '',
-    place: ''
+    title: 'Warwick Examiner and Times (Qld. : 1867 - 1919)',
+    place: 'qld'
   },
   {
     id: 394,
@@ -1976,13 +1976,13 @@ export default [
   },
   {
     id: 395,
-    title: '',
-    place: ''
+    title: 'Williamstown Trade Circular (Vic. : 1855 - 1856)',
+    place: 'vic'
   },
   {
     id: 396,
-    title: '',
-    place: ''
+    title: 'The West Wyalong Advocate (NSW : 1928 - 1954)',
+    place: 'nsw'
   },
   {
     id: 397,
@@ -1991,13 +1991,13 @@ export default [
   },
   {
     id: 398,
-    title: '',
-    place: ''
+    title: 'Sunbury News and Bulla and Melton Advertiser (Vic. : 1892 - 1900)',
+    place: 'vic'
   },
   {
     id: 399,
-    title: '',
-    place: ''
+    title: 'Western Age (Dubbo, NSW : 1914 - 1932)',
+    place: 'nsw'
   },
   {
     id: 400,
@@ -2011,13 +2011,13 @@ export default [
   },
   {
     id: 402,
-    title: '',
-    place: ''
+    title: 'The Mountaineer (Katoomba, NSW : 1894 - 1908)',
+    place: 'nsw'
   },
   {
     id: 403,
-    title: '',
-    place: ''
+    title: 'The Northern Standard (Ulverstone, Tas. : 1921 - 1923)',
+    place: 'tas'
   },
   {
     id: 404,
@@ -2031,18 +2031,18 @@ export default [
   },
   {
     id: 406,
-    title: '',
-    place: ''
+    title: 'Rosedale Courier (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 407,
-    title: '',
-    place: ''
+    title: 'Twofold Bay and Maneroo Telegraph (NSW : 1860)',
+    place: 'nsw'
   },
   {
     id: 408,
-    title: '',
-    place: ''
+    title: 'The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)',
+    place: 'qld'
   },
   {
     id: 409,
@@ -2051,8 +2051,8 @@ export default [
   },
   {
     id: 410,
-    title: '',
-    place: ''
+    title: 'Western Tiers (Tas. : 1980 - 2004)',
+    place: 'tas'
   },
   {
     id: 411,
@@ -2061,23 +2061,23 @@ export default [
   },
   {
     id: 412,
-    title: '',
-    place: ''
+    title: 'The Week (Brisbane, Qld. : 1876 - 1934)',
+    place: 'qld'
   },
   {
     id: 413,
-    title: '',
-    place: ''
+    title: 'Port Melbourne Standard (Vic. : 1914 - 1920)',
+    place: 'vic'
   },
   {
     id: 414,
-    title: '',
-    place: ''
+    title: 'The Sun (Sydney, NSW : 1910 - 1954)',
+    place: 'nsw'
   },
   {
     id: 415,
-    title: '',
-    place: ''
+    title: 'Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)',
+    place: 'vic'
   },
   {
     id: 416,
@@ -2086,8 +2086,8 @@ export default [
   },
   {
     id: 417,
-    title: '',
-    place: ''
+    title: 'Queensland Figaro and Punch (Brisbane, Qld. : 1885 - 1889)',
+    place: 'qld'
   },
   {
     id: 418,
@@ -2116,8 +2116,8 @@ export default [
   },
   {
     id: 423,
-    title: '',
-    place: ''
+    title: 'Narrogin Observer (WA : 1952 - 1954)',
+    place: 'wa'
   },
   {
     id: 424,
@@ -2126,13 +2126,13 @@ export default [
   },
   {
     id: 425,
-    title: '',
-    place: ''
+    title: 'Oakleigh Leader (North Brighton, Vic. : 1888 - 1902)',
+    place: 'vic'
   },
   {
     id: 426,
-    title: '',
-    place: ''
+    title: 'Numurkah Standard and Wunghnu, Cobram, Yarroweyah and Strathmerton Advocate (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 427,
@@ -2146,8 +2146,8 @@ export default [
   },
   {
     id: 429,
-    title: '',
-    place: ''
+    title: 'The Southern Record and Advertiser (Candelo, NSW : 1910 - 1938)',
+    place: 'nsw'
   },
   {
     id: 430,
@@ -2166,13 +2166,13 @@ export default [
   },
   {
     id: 433,
-    title: '',
-    place: ''
+    title: 'The Queanbeyan Leader (NSW : 1905 - 1916)',
+    place: 'nsw'
   },
   {
     id: 434,
-    title: '',
-    place: ''
+    title: 'Reporter and Illawarra Journal (Kiama, NSW : 1887 - 1894)',
+    place: 'nsw'
   },
   {
     id: 435,
@@ -2196,8 +2196,8 @@ export default [
   },
   {
     id: 439,
-    title: '',
-    place: ''
+    title: 'Rupanyup Spectator and Lubeck, Banyena, Rich Avon and Lallat Advertiser (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 440,
@@ -2206,8 +2206,8 @@ export default [
   },
   {
     id: 441,
-    title: '',
-    place: ''
+    title: 'The Teetotal Advocate (Launceston, Tas. : 1843)',
+    place: 'tas'
   },
   {
     id: 442,
@@ -2216,8 +2216,8 @@ export default [
   },
   {
     id: 443,
-    title: '',
-    place: ''
+    title: 'North Australian and Queensland General Advertiser (Ipswich, Qld. : 1862 - 1863)',
+    place: 'qld'
   },
   {
     id: 444,
@@ -2226,18 +2226,18 @@ export default [
   },
   {
     id: 445,
-    title: '',
-    place: ''
+    title: 'The Sun : Sunday Edition (Sydney, NSW : 1910)',
+    place: 'nsw'
   },
   {
     id: 446,
-    title: '',
-    place: ''
+    title: 'The Snowy River Mail and Tambo and Croajingolong Gazette (Orbost, Vic. : 1890 - 1911)',
+    place: 'vic'
   },
   {
     id: 447,
-    title: '',
-    place: ''
+    title: 'Northern Argus (Clare, SA : 1869 - 1954)',
+    place: 'qld'
   },
   {
     id: 448,
@@ -2246,8 +2246,8 @@ export default [
   },
   {
     id: 449,
-    title: '',
-    place: ''
+    title: 'Tocumwal Guardian and Finley Free Press (NSW : 1908 - 1913)',
+    place: 'nsw'
   },
   {
     id: 450,
@@ -2256,8 +2256,8 @@ export default [
   },
   {
     id: 451,
-    title: '',
-    place: ''
+    title: 'Telegraph (Hobart Town, Tas. : 1867)',
+    place: 'tas'
   },
   {
     id: 452,
@@ -2266,18 +2266,18 @@ export default [
   },
   {
     id: 453,
-    title: '',
-    place: ''
+    title: 'World (Hobart, Tas. : 1918 - 1924)',
+    place: 'tas'
   },
   {
     id: 454,
-    title: '',
-    place: ''
+    title: 'Port Fairy Times and Macarthur News (Vic. : 1917 - 1918)',
+    place: 'vic'
   },
   {
     id: 455,
-    title: '',
-    place: ''
+    title: 'Twofold Bay and Maneroo Observer (NSW : 1860)',
+    place: 'nsw'
   },
   {
     id: 456,
@@ -2286,8 +2286,8 @@ export default [
   },
   {
     id: 457,
-    title: '',
-    place: ''
+    title: 'Stratford Sentinel and Briagolong Express (Vic. : 1911 - 1916)',
+    place: 'vic'
   },
   {
     id: 458,
@@ -2296,18 +2296,18 @@ export default [
   },
   {
     id: 459,
-    title: '',
-    place: ''
+    title: 'The Mail (Adelaide, SA : 1912 - 1954)',
+    place: 'sa'
   },
   {
     id: 460,
-    title: '',
-    place: ''
+    title: 'National Advocate (Bathurst, NSW : 1889 - 1954)',
+    place: 'nsw'
   },
   {
     id: 461,
-    title: '',
-    place: ''
+    title: 'The Observer (Henty, NSW : 1950 - 1954)',
+    place: 'wa'
   },
   {
     id: 462,
@@ -2316,18 +2316,18 @@ export default [
   },
   {
     id: 463,
-    title: '',
-    place: ''
+    title: 'Narromine News and Trangie Advocate (NSW : 1898 - 1955)',
+    place: 'nsw'
   },
   {
     id: 464,
-    title: '',
-    place: ''
+    title: 'Mornington Standard (Vic. : 1889 - 1908)',
+    place: 'vic'
   },
   {
     id: 465,
-    title: '',
-    place: ''
+    title: 'New Call (Perth, WA : 1931 - 1934)',
+    place: 'wa'
   },
   {
     id: 466,
@@ -2336,18 +2336,18 @@ export default [
   },
   {
     id: 467,
-    title: '',
-    place: ''
+    title: 'Rutherglen Sun and Chiltern Valley Advertiser (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 468,
-    title: '',
-    place: ''
+    title: 'The St. George Standard and Balonne Advertiser (Qld. : 1878 - 1879; 1902 - 1904)',
+    place: 'qld'
   },
   {
     id: 469,
-    title: '',
-    place: ''
+    title: 'Sunshine Advocate (Vic. : 1924 - 1954)',
+    place: 'vic'
   },
   {
     id: 470,
@@ -2361,13 +2361,13 @@ export default [
   },
   {
     id: 472,
-    title: '',
-    place: ''
+    title: 'Port Adelaide News (SA :1913 - 1933)',
+    place: 'sa'
   },
   {
     id: 473,
-    title: '',
-    place: ''
+    title: 'Swan Hill Guardian and Lake Boga Advocate (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 474,
@@ -2376,8 +2376,8 @@ export default [
   },
   {
     id: 475,
-    title: '',
-    place: ''
+    title: 'The Westonian (WA : 1915 - 1920)',
+    place: 'wa'
   },
   {
     id: 476,
@@ -2386,8 +2386,8 @@ export default [
   },
   {
     id: 477,
-    title: '',
-    place: ''
+    title: 'The Sun and New South Wales Independent Press (Sydney, NSW : 1843)',
+    place: 'nsw'
   },
   {
     id: 478,
@@ -2446,8 +2446,8 @@ export default [
   },
   {
     id: 489,
-    title: '',
-    place: ''
+    title: 'Morning Post (Cairns, Qld. : 1897 - 1907)',
+    place: 'qld'
   },
   {
     id: 490,
@@ -2461,8 +2461,8 @@ export default [
   },
   {
     id: 492,
-    title: '',
-    place: ''
+    title: 'Tingha Advocate and North-Western Journal (NSW : 1916 - 1932)',
+    place: 'nsw'
   },
   {
     id: 493,
@@ -2471,8 +2471,8 @@ export default [
   },
   {
     id: 494,
-    title: '',
-    place: ''
+    title: 'The North Australian (Brisbane, Qld. : 1863 - 1865)',
+    place: 'qld'
   },
   {
     id: 495,
@@ -2481,8 +2481,8 @@ export default [
   },
   {
     id: 496,
-    title: '',
-    place: ''
+    title: 'Party Builder (Sydney, NSW : 1942)',
+    place: 'nsw'
   },
   {
     id: 497,
@@ -2491,13 +2491,13 @@ export default [
   },
   {
     id: 498,
-    title: '',
-    place: ''
+    title: 'The Peak Hill Express (NSW : 1902 - 1952)',
+    place: 'nsw'
   },
   {
     id: 499,
-    title: '',
-    place: ''
+    title: 'The Satirist and Sporting Chronicle (Sydney, NSW : 1843)',
+    place: 'nsw'
   },
   {
     id: 500,
@@ -2506,13 +2506,13 @@ export default [
   },
   {
     id: 501,
-    title: '',
-    place: ''
+    title: 'Manilla Express (NSW : 1899 - 1954)',
+    place: 'nsw'
   },
   {
     id: 502,
-    title: '',
-    place: ''
+    title: 'The Reformer (Perth, WA : 1906 - 1919)',
+    place: 'wa'
   },
   {
     id: 503,
@@ -2521,8 +2521,8 @@ export default [
   },
   {
     id: 504,
-    title: '',
-    place: ''
+    title: 'The News (Hobart, Tas. : 1924 - 1925)',
+    place: 'tas'
   },
   {
     id: 505,
@@ -2536,8 +2536,8 @@ export default [
   },
   {
     id: 507,
-    title: '',
-    place: ''
+    title: 'Rockhampton Bulletin (Qld. : 1871 - 1878)',
+    place: 'qld'
   },
   {
     id: 508,
@@ -2566,8 +2566,8 @@ export default [
   },
   {
     id: 513,
-    title: '',
-    place: ''
+    title: 'The Sun-Herald (Sydney, NSW : 1953 - 1954)',
+    place: 'nsw'
   },
   {
     id: 514,
@@ -2581,8 +2581,8 @@ export default [
   },
   {
     id: 516,
-    title: '',
-    place: ''
+    title: 'Telegraph (Launceston, Tas. : 1881 - 1883)',
+    place: 'tas'
   },
   {
     id: 517,
@@ -2606,8 +2606,8 @@ export default [
   },
   {
     id: 521,
-    title: '',
-    place: ''
+    title: 'Mudgee Guardian and North-Western Representative (NSW : 1890 - 1954)',
+    place: 'nsw'
   },
   {
     id: 522,
@@ -2616,8 +2616,8 @@ export default [
   },
   {
     id: 523,
-    title: '',
-    place: ''
+    title: 'The Sun News Pictorial (Melbourne, Vic. : 1956 Supplement)',
+    place: 'vic'
   },
   {
     id: 524,
@@ -2631,8 +2631,8 @@ export default [
   },
   {
     id: 526,
-    title: '',
-    place: ''
+    title: 'Portland Guardian and Normanby General Advertiser (Vic. : 1842 - 1843; 1854 - 1876)',
+    place: 'vic'
   },
   {
     id: 527,
@@ -2641,8 +2641,8 @@ export default [
   },
   {
     id: 528,
-    title: '',
-    place: ''
+    title: 'Ultima and Chillingollah Star (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 529,
@@ -2656,8 +2656,8 @@ export default [
   },
   {
     id: 531,
-    title: '',
-    place: ''
+    title: 'The Urana Independent and Clear Hills Standard (NSW : 1913 - 1921)',
+    place: 'nsw'
   },
   {
     id: 532,
@@ -2666,8 +2666,8 @@ export default [
   },
   {
     id: 533,
-    title: '',
-    place: ''
+    title: 'The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893)',
+    place: 'nsw'
   },
   {
     id: 534,
@@ -2696,8 +2696,8 @@ export default [
   },
   {
     id: 539,
-    title: '',
-    place: ''
+    title: 'The Sunday Mirror (Perth, WA : 1920 - 1921)',
+    place: 'wa'
   },
   {
     id: 540,
@@ -2716,13 +2716,13 @@ export default [
   },
   {
     id: 543,
-    title: '',
-    place: ''
+    title: 'The Western Champion (Barcaldine, Qld. : 1922 - 1937)',
+    place: 'qld'
   },
   {
     id: 544,
-    title: '',
-    place: ''
+    title: 'The Sunday Herald (Sydney, NSW : 1949 - 1953)',
+    place: 'nsw'
   },
   {
     id: 545,
@@ -2731,8 +2731,8 @@ export default [
   },
   {
     id: 546,
-    title: '',
-    place: ''
+    title: 'Western Age (Dubbo, NSW : 1933 - 1936)',
+    place: 'nsw'
   },
   {
     id: 547,
@@ -2741,13 +2741,13 @@ export default [
   },
   {
     id: 548,
-    title: '',
-    place: ''
+    title: 'National Leader (Brisbane, Qld. : 1916 - 1918)',
+    place: 'qld'
   },
   {
     id: 549,
-    title: '',
-    place: ''
+    title: 'The Richmond River Express and Casino Kyogle Advertiser (NSW : 1904 - 1929)',
+    place: 'nsw'
   },
   {
     id: 550,
@@ -2756,8 +2756,8 @@ export default [
   },
   {
     id: 551,
-    title: '',
-    place: ''
+    title: 'Port Fairy Gazette (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 552,
@@ -2776,8 +2776,8 @@ export default [
   },
   {
     id: 555,
-    title: '',
-    place: ''
+    title: 'Tharunka (Kensington, NSW : 1953 - 2010)',
+    place: 'nsw'
   },
   {
     id: 556,
@@ -2791,13 +2791,13 @@ export default [
   },
   {
     id: 558,
-    title: '',
-    place: ''
+    title: 'Nagambie Times (Vic. : 1914 - 1918)',
+    place: 'tas'
   },
   {
     id: 559,
-    title: '',
-    place: ''
+    title: 'Upper Murray and Mitta Herald (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 560,
@@ -2806,8 +2806,8 @@ export default [
   },
   {
     id: 561,
-    title: '',
-    place: ''
+    title: 'The Voice of Jacob. or, the Hebrews\' Monthly Miscellany (Sydney, NSW : 1842)',
+    place: 'nsw'
   },
   {
     id: 562,
@@ -2846,8 +2846,8 @@ export default [
   },
   {
     id: 569,
-    title: '',
-    place: ''
+    title: 'Sandringham Southern Cross (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 570,
@@ -2861,8 +2861,8 @@ export default [
   },
   {
     id: 572,
-    title: '',
-    place: ''
+    title: 'Saturday Referee and the Arrow (Sydney, NSW : 1912 - 1916)',
+    place: 'nsw'
   },
   {
     id: 573,
@@ -2876,13 +2876,13 @@ export default [
   },
   {
     id: 575,
-    title: '',
-    place: ''
+    title: 'Twofold Bay Telegraph (NSW : 1860)',
+    place: 'nsw'
   },
   {
     id: 576,
-    title: '',
-    place: ''
+    title: 'Tribune (Hobart, Tas. : 1876 - 1879)',
+    place: 'tas'
   },
   {
     id: 577,
@@ -2901,8 +2901,8 @@ export default [
   },
   {
     id: 580,
-    title: '',
-    place: ''
+    title: 'The True Colonist Van Diemen\'s Land Political Despatch, and Agricultural and Commercial... (Hobart Town, Tas. : 1834 - 1844)',
+    place: 'tas'
   },
   {
     id: 581,
@@ -2921,18 +2921,18 @@ export default [
   },
   {
     id: 584,
-    title: '',
-    place: ''
+    title: 'Trumpeter General (Hobart, Tas. : 1833 - 1834)',
+    place: 'tas'
   },
   {
     id: 585,
-    title: '',
-    place: ''
+    title: 'Numurkah Leader (Vic. : 1895 - 1948)',
+    place: 'vic'
   },
   {
     id: 586,
-    title: '',
-    place: ''
+    title: 'Sunday Mail (Brisbane, Qld. : 1926 - 1954)',
+    place: 'qld'
   },
   {
     id: 587,
@@ -2981,13 +2981,13 @@ export default [
   },
   {
     id: 596,
-    title: '',
-    place: ''
+    title: 'Narandera Argus and Riverina Advertiser (NSW : 1893 - 1953)',
+    place: 'nsw'
   },
   {
     id: 597,
-    title: '',
-    place: ''
+    title: 'Saturday Journal (Adelaide, SA : 1923 - 1929)',
+    place: 'sa'
   },
   {
     id: 598,
@@ -3001,8 +3001,8 @@ export default [
   },
   {
     id: 600,
-    title: '',
-    place: ''
+    title: 'People (Sydney, NSW : 1900 - 1919)',
+    place: 'nsw'
   },
   {
     id: 601,
@@ -3016,8 +3016,8 @@ export default [
   },
   {
     id: 603,
-    title: '',
-    place: ''
+    title: 'Table Talk (Melbourne, Vic. : 1885 - 1939)',
+    place: 'vic'
   },
   {
     id: 604,
@@ -3026,8 +3026,8 @@ export default [
   },
   {
     id: 605,
-    title: '',
-    place: ''
+    title: 'South Western Advertiser (Perth, WA : 1910 - 1954)',
+    place: 'wa'
   },
   {
     id: 606,
@@ -3041,13 +3041,13 @@ export default [
   },
   {
     id: 608,
-    title: '',
-    place: ''
+    title: 'Port Adelaide News (SA : 1904)',
+    place: 'sa'
   },
   {
     id: 609,
-    title: '',
-    place: ''
+    title: 'Mornington and Dromana Standard (Vic. : 1908 - 1911)',
+    place: 'vic'
   },
   {
     id: 610,
@@ -3066,13 +3066,13 @@ export default [
   },
   {
     id: 613,
-    title: '',
-    place: ''
+    title: 'The Telegraph (Brisbane, Qld. : 1872 - 1947)',
+    place: 'qld'
   },
   {
     id: 614,
-    title: '',
-    place: ''
+    title: 'Saturday Referee and the Arrow (Sydney, NSW : 1912 - 1916)',
+    place: 'nsw'
   },
   {
     id: 615,
@@ -3081,8 +3081,8 @@ export default [
   },
   {
     id: 616,
-    title: '',
-    place: ''
+    title: 'Nashville Times, Gympie and Mary River Mining Gazette (Qld. : 1868)',
+    place: 'qld'
   },
   {
     id: 617,
@@ -3097,7 +3097,7 @@ export default [
   {
     id: 619,
     title: 'Boorowa News (NSW : 1951 - 1954)',
-    place: ''
+    place: 'nsw'
   },
   {
     id: 620,
@@ -3126,8 +3126,8 @@ export default [
   },
   {
     id: 625,
-    title: '',
-    place: ''
+    title: 'Nungarin Trayning Mail and Kununoppin Advertiser (WA : 1917 - 1922)',
+    place: 'wa'
   },
   {
     id: 626,
@@ -3146,8 +3146,8 @@ export default [
   },
   {
     id: 629,
-    title: '',
-    place: ''
+    title: 'South Bourke Standard (Vic. : 1861 - 1873)',
+    place: 'vic'
   },
   {
     id: 630,
@@ -3186,13 +3186,13 @@ export default [
   },
   {
     id: 637,
-    title: '',
-    place: ''
+    title: 'Talbot Leader (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 638,
-    title: '',
-    place: ''
+    title: 'The Voice of the North (NSW : 1918 - 1933)',
+    place: 'nsw'
   },
   {
     id: 639,
@@ -3201,13 +3201,13 @@ export default [
   },
   {
     id: 640,
-    title: '',
-    place: ''
+    title: 'Sea Lake Times and Berriwillock Advertiser (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 641,
-    title: '',
-    place: ''
+    title: 'Petersburg Times (SA : 1887 - 1919)',
+    place: 'sa'
   },
   {
     id: 642,
@@ -3271,8 +3271,8 @@ export default [
   },
   {
     id: 654,
-    title: '',
-    place: ''
+    title: 'Nambour Chronicle and North Coast Advertiser (Qld. : 1922 - 1954)',
+    place: 'qld'
   },
   {
     id: 655,
@@ -3286,8 +3286,8 @@ export default [
   },
   {
     id: 657,
-    title: '',
-    place: ''
+    title: 'Port Adelaide News (SA : 1878 - 1883)',
+    place: 'sa'
   },
   {
     id: 658,
@@ -3366,8 +3366,8 @@ export default [
   },
   {
     id: 673,
-    title: '',
-    place: ''
+    title: 'Malvern Courier and Caulfield Mirror (Vic. : 1914 - 1917)',
+    place: 'vic'
   },
   {
     id: 674,
@@ -3381,8 +3381,8 @@ export default [
   },
   {
     id: 676,
-    title: '',
-    place: ''
+    title: 'Mullumbimby Star (NSW : 1906 - 1936)',
+    place: 'nsw'
   },
   {
     id: 677,
@@ -3441,8 +3441,8 @@ export default [
   },
   {
     id: 688,
-    title: '',
-    place: ''
+    title: 'Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)',
+    place: 'qld'
   },
   {
     id: 689,
@@ -3451,8 +3451,8 @@ export default [
   },
   {
     id: 690,
-    title: '',
-    place: ''
+    title: 'South Australian (Adelaide, SA : 1844 - 1851)',
+    place: 'sa'
   },
   {
     id: 691,
@@ -3476,8 +3476,8 @@ export default [
   },
   {
     id: 695,
-    title: '',
-    place: ''
+    title: 'The Victor Harbor Times and Encounter Bay and Lower Murray Pilot (SA : 1912 - 1930)',
+    place: 'sa'
   },
   {
     id: 696,
@@ -3486,13 +3486,13 @@ export default [
   },
   {
     id: 697,
-    title: '',
-    place: ''
+    title: 'Northern District Standard (Vic. : 1915 - 1916)',
+    place: 'vic'
   },
   {
     id: 698,
-    title: '',
-    place: ''
+    title: 'The Scone Advocate (NSW : 1887 - 1954)',
+    place: 'nsw'
   },
   {
     id: 699,
@@ -3546,8 +3546,8 @@ export default [
   },
   {
     id: 709,
-    title: '',
-    place: ''
+    title: 'The Nowra Leader (NSW : 1909 - 1939)',
+    place: 'nsw'
   },
   {
     id: 710,
@@ -3576,8 +3576,8 @@ export default [
   },
   {
     id: 715,
-    title: '',
-    place: ''
+    title: 'Sunday Times (Perth, WA : 1902 - 1954)',
+    place: 'wa'
   },
   {
     id: 716,
@@ -3586,13 +3586,13 @@ export default [
   },
   {
     id: 717,
-    title: '',
-    place: ''
+    title: 'The Telegraph, St Kilda, Prahran and South Yarra Guardian (Vic. : 1866 - 1888)',
+    place: 'vic'
   },
   {
     id: 718,
-    title: '',
-    place: ''
+    title: 'The Manning River Times and Advocate for the Northern Coast Districts of New South Wales (Taree, NSW : 1898 - 1954)',
+    place: 'nsw'
   },
   {
     id: 719,
@@ -3616,8 +3616,8 @@ export default [
   },
   {
     id: 723,
-    title: '',
-    place: ''
+    title: 'Truth (Brisbane, Qld. : 1900 - 1954)',
+    place: 'qld'
   },
   {
     id: 724,
@@ -3626,13 +3626,13 @@ export default [
   },
   {
     id: 725,
-    title: '',
-    place: ''
+    title: 'The Richmond River Express and Tweed Advertiser (NSW : 1903 - 1904)',
+    place: 'nsw'
   },
   {
     id: 726,
-    title: '',
-    place: ''
+    title: 'Seamen\'s Strike Bulletin (Melbourne, Vic. : 1919)',
+    place: 'vic'
   },
   {
     id: 727,
@@ -3641,18 +3641,18 @@ export default [
   },
   {
     id: 728,
-    title: '',
-    place: ''
+    title: 'South Western Times (Bunbury, WA : 1917 - 1929)',
+    place: 'wa'
   },
   {
     id: 729,
-    title: '',
-    place: ''
+    title: 'Malvern News (Vic. : 1914 - 1916)',
+    place: 'vic'
   },
   {
     id: 730,
-    title: '',
-    place: ''
+    title: 'Pitfield Banner and Hollybush Times (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 731,
@@ -3661,8 +3661,8 @@ export default [
   },
   {
     id: 732,
-    title: '',
-    place: ''
+    title: 'The Terowie Enterprise (SA : 1884 - 1891)',
+    place: 'sa'
   },
   {
     id: 733,
@@ -3691,13 +3691,13 @@ export default [
   },
   {
     id: 738,
-    title: '',
-    place: ''
+    title: 'The Pictorial Australian (Adelaide, SA : 1885 - 1895)',
+    place: 'sa'
   },
   {
     id: 739,
-    title: '',
-    place: ''
+    title: 'Sunday News (Sydney, NSW : 1919)',
+    place: 'nsw'
   },
   {
     id: 740,
@@ -3706,8 +3706,8 @@ export default [
   },
   {
     id: 741,
-    title: '',
-    place: ''
+    title: 'Port Lincoln Times (SA : 1927 - 1954)',
+    place: 'sa'
   },
   {
     id: 742,
@@ -3721,8 +3721,8 @@ export default [
   },
   {
     id: 744,
-    title: '',
-    place: ''
+    title: 'Portland Observer and Normanby Advertiser (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 745,
@@ -3736,23 +3736,23 @@ export default [
   },
   {
     id: 747,
-    title: '',
-    place: ''
+    title: 'Northern Times (Newcastle, NSW : 1857 - 1918)',
+    place: 'nsw'
   },
   {
     id: 748,
-    title: '',
-    place: ''
+    title: 'Times (Victor Harbor, SA : 1987 - 1999)',
+    place: 'sa'
   },
   {
     id: 749,
-    title: '',
-    place: ''
+    title: 'The Scrutineer (Moss Vale, NSW : 1892)',
+    place: 'nsw'
   },
   {
     id: 750,
-    title: '',
-    place: ''
+    title: 'Terang Express (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 751,
@@ -3761,8 +3761,8 @@ export default [
   },
   {
     id: 752,
-    title: '',
-    place: ''
+    title: 'Malvern Standard (Vic. : 1906 - 1931)',
+    place: 'vic'
   },
   {
     id: 753,
@@ -3786,8 +3786,8 @@ export default [
   },
   {
     id: 757,
-    title: '',
-    place: ''
+    title: 'Moreton Mail (Qld : 1886 - 1889)',
+    place: 'qld'
   },
   {
     id: 758,
@@ -3816,8 +3816,8 @@ export default [
   },
   {
     id: 763,
-    title: '',
-    place: ''
+    title: 'The Port Adelaide Gazette (SA : 1930)',
+    place: 'sa'
   },
   {
     id: 764,
@@ -3831,8 +3831,8 @@ export default [
   },
   {
     id: 766,
-    title: '',
-    place: ''
+    title: 'The Swan Express (Midland Junction, WA : 1900 - 1954)',
+    place: 'wa'
   },
   {
     id: 767,
@@ -3846,8 +3846,8 @@ export default [
   },
   {
     id: 769,
-    title: '',
-    place: ''
+    title: 'Meie Kodu = Our Home (Sydney, NSW : 1949 - 1954)',
+    place: 'nsw'
   },
   {
     id: 770,
@@ -3866,18 +3866,18 @@ export default [
   },
   {
     id: 773,
-    title: '',
-    place: ''
+    title: 'The People and the Collectivist (Sydney, NSW : 1900)',
+    place: 'nsw'
   },
   {
     id: 774,
-    title: '',
-    place: ''
+    title: 'The South Australian Advertiser (Adelaide, SA : 1858 - 1889)',
+    place: 'sa'
   },
   {
     id: 775,
-    title: '',
-    place: ''
+    title: 'The Sunday Sun (Sydney, NSW : 1903 - 1910)',
+    place: 'nsw'
   },
   {
     id: 776,
@@ -3886,18 +3886,18 @@ export default [
   },
   {
     id: 777,
-    title: '',
-    place: ''
+    title: 'Times Victor Harbour and Encounter Bay and Lower Murray Pilot (SA : 1930 - 1932)',
+    place: 'sa'
   },
   {
     id: 778,
-    title: '',
-    place: ''
+    title: 'The Picton Post (NSW : 1907 - 1954)',
+    place: 'nsw'
   },
   {
     id: 779,
-    title: '',
-    place: ''
+    title: 'Seaside News (Cheltenham, Vic. : 1915 - 1918)',
+    place: 'vic'
   },
   {
     id: 780,
@@ -3906,18 +3906,18 @@ export default [
   },
   {
     id: 781,
-    title: '',
-    place: ''
+    title: 'The Times and Northern Advertiser, Peterborough, South Australia (SA : 1919 - 1950)',
+    place: 'sa'
   },
   {
     id: 782,
-    title: '',
-    place: ''
+    title: 'Port Fairy Gazette (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 783,
-    title: '',
-    place: ''
+    title: 'The Tocsin (Melbourne, Vic. : 1897 - 1906)',
+    place: 'vic'
   },
   {
     id: 784,
@@ -3961,8 +3961,8 @@ export default [
   },
   {
     id: 792,
-    title: '',
-    place: ''
+    title: 'Merredin Mercury (WA : 1912 - 1921)',
+    place: 'wa'
   },
   {
     id: 793,
@@ -3976,8 +3976,8 @@ export default [
   },
   {
     id: 795,
-    title: '',
-    place: ''
+    title: 'The Twofold Bay Magnet : and South Coast and Southern Monaro Advertiser (NSW : 1908 - 1919)',
+    place: 'nsw'
   },
   {
     id: 796,
@@ -3991,8 +3991,8 @@ export default [
   },
   {
     id: 798,
-    title: '',
-    place: ''
+    title: 'Transcontinental (Port Augusta, SA : 1914 - 1954)',
+    place: 'sa'
   },
   {
     id: 799,
@@ -4006,8 +4006,8 @@ export default [
   },
   {
     id: 801,
-    title: '',
-    place: ''
+    title: 'Sunbury News (Vic. : 1892)',
+    place: 'vic'
   },
   {
     id: 802,
@@ -4026,18 +4026,18 @@ export default [
   },
   {
     id: 805,
-    title: '',
-    place: ''
+    title: 'Northern Times (Carnarvon, WA : 1905 - 1952)',
+    place: 'wa'
   },
   {
     id: 806,
-    title: '',
-    place: ''
+    title: 'Narracan Shire Advocate (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 807,
-    title: '',
-    place: ''
+    title: 'South Australian Chronicle (Adelaide, SA : 1889 - 1895)',
+    place: 'sa'
   },
   {
     id: 808,
@@ -4046,8 +4046,8 @@ export default [
   },
   {
     id: 809,
-    title: '',
-    place: ''
+    title: 'Macleay Argus (Kempsey, NSW : 1885 - 1907; 1909 - 1910; 1912 - 1913; 1915 - 1916; 1918 - 1954)',
+    place: 'nsw'
   },
   {
     id: 810,
@@ -4091,8 +4091,8 @@ export default [
   },
   {
     id: 818,
-    title: '',
-    place: ''
+    title: 'The Moreton Bay Courier (Brisbane, Qld. : 1846 - 1861)',
+    place: 'qld'
   },
   {
     id: 819,
@@ -4106,13 +4106,13 @@ export default [
   },
   {
     id: 821,
-    title: '',
-    place: ''
+    title: 'The Richmond River Herald and Northern Districts Advertiser (NSW : 1886 - 1942)',
+    place: 'nsw'
   },
   {
     id: 822,
-    title: '',
-    place: ''
+    title: 'Port Pirie Recorder (SA : 1918 - 1919)',
+    place: 'sa'
   },
   {
     id: 823,
@@ -4126,13 +4126,13 @@ export default [
   },
   {
     id: 825,
-    title: '',
-    place: ''
+    title: 'The Tasmanian (Hobart Town, Tas. : 1827 - 1839)',
+    place: 'tas'
   },
   {
     id: 826,
-    title: '',
-    place: ''
+    title: 'The Tasmanian (Launceston, Tas. : 1871 - 1879)',
+    place: 'tas'
   },
   {
     id: 827,
@@ -4156,13 +4156,13 @@ export default [
   },
   {
     id: 831,
-    title: '',
-    place: ''
+    title: 'Northern Star (Lismore, NSW : 1876 - 1954)',
+    place: 'nsw'
   },
   {
     id: 832,
-    title: '',
-    place: ''
+    title: 'The Tenterfield Intercolonial Courier and Fairfield and Wallangarra Advocate (NSW : 1900 - 1914)',
+    place: 'nsw'
   },
   {
     id: 833,
@@ -4176,8 +4176,8 @@ export default [
   },
   {
     id: 835,
-    title: '',
-    place: ''
+    title: 'Riverina Recorder (Balranald, Moulamein, NSW : 1887 - 1944)',
+    place: 'nsw'
   },
   {
     id: 836,
@@ -4196,8 +4196,8 @@ export default [
   },
   {
     id: 839,
-    title: '',
-    place: ''
+    title: 'Malvern and Caulfield Standard (Vic. : 1906)',
+    place: 'vic'
   },
   {
     id: 840,
@@ -4206,8 +4206,8 @@ export default [
   },
   {
     id: 841,
-    title: '',
-    place: ''
+    title: 'The Tasmanian (Launceston, Tas. : 1881 - 1895)',
+    place: 'tas'
   },
   {
     id: 842,
@@ -4221,8 +4221,8 @@ export default [
   },
   {
     id: 844,
-    title: '',
-    place: ''
+    title: 'The Newcastle Chronicle (NSW : 1866 - 1876)',
+    place: 'nsw'
   },
   {
     id: 845,
@@ -4256,8 +4256,8 @@ export default [
   },
   {
     id: 851,
-    title: '',
-    place: ''
+    title: 'The Newcastle Chronicle and Hunter River District News (NSW : 1859 - 1866)',
+    place: 'nsw'
   },
   {
     id: 852,
@@ -4271,8 +4271,8 @@ export default [
   },
   {
     id: 854,
-    title: '',
-    place: ''
+    title: 'The Malcolm Chronicle and Leonora Advertiser (WA : 1897 - 1905)',
+    place: 'wa'
   },
   {
     id: 855,
@@ -4291,8 +4291,8 @@ export default [
   },
   {
     id: 858,
-    title: '',
-    place: ''
+    title: 'The Messenger (Fremantle, WA : 1895)',
+    place: 'wa'
   },
   {
     id: 859,
@@ -4301,8 +4301,8 @@ export default [
   },
   {
     id: 860,
-    title: '',
-    place: ''
+    title: 'Pitfield Banner and Hollybush Times (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 861,
@@ -4321,8 +4321,8 @@ export default [
   },
   {
     id: 864,
-    title: '',
-    place: ''
+    title: 'The Midlands Advertiser (Moora, WA : 1907 - 1930)',
+    place: 'wa'
   },
   {
     id: 865,
@@ -4331,8 +4331,8 @@ export default [
   },
   {
     id: 866,
-    title: '',
-    place: ''
+    title: 'Tocumwal Guardian and Riverina Echo (NSW : 1913 - 1918)',
+    place: 'nsw'
   },
   {
     id: 867,
@@ -4341,8 +4341,8 @@ export default [
   },
   {
     id: 868,
-    title: '',
-    place: ''
+    title: 'South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)',
+    place: 'sa'
   },
   {
     id: 869,
@@ -4396,8 +4396,8 @@ export default [
   },
   {
     id: 879,
-    title: '',
-    place: ''
+    title: 'The Port Macquarie News and Hastings River Advocate (NSW : 1882 - 1950)',
+    place: 'nsw'
   },
   {
     id: 880,
@@ -4406,8 +4406,8 @@ export default [
   },
   {
     id: 881,
-    title: '',
-    place: ''
+    title: 'The Register News-Pictorial (Adelaide, SA : 1929 - 1931)',
+    place: 'sa'
   },
   {
     id: 882,
@@ -4416,8 +4416,8 @@ export default [
   },
   {
     id: 883,
-    title: '',
-    place: ''
+    title: 'Sunbury News (Vic. : 1900 - 1910)',
+    place: 'vic'
   },
   {
     id: 884,
@@ -4466,8 +4466,8 @@ export default [
   },
   {
     id: 893,
-    title: '',
-    place: ''
+    title: 'The South-Western News (Busselton, WA : 1903 - 1949)',
+    place: 'wa'
   },
   {
     id: 894,
@@ -4576,23 +4576,23 @@ export default [
   },
   {
     id: 915,
-    title: '',
-    place: ''
+    title: 'The Tasmanian Colonist (Hobart Town, Tas. : 1851 - 1855)',
+    place: 'tas'
   },
   {
     id: 916,
-    title: '',
-    place: ''
+    title: 'Mullumbimby Star and Byron Bay-Bangalow Advocate (NSW : 1936)',
+    place: 'nsw'
   },
   {
     id: 917,
-    title: '',
-    place: ''
+    title: 'Toora and Welshpool Ensign and South Gippsland Observer (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 918,
-    title: '',
-    place: ''
+    title: 'Victor Harbour Times (SA : 1932 - 1986)',
+    place: 'sa'
   },
   {
     id: 919,
@@ -4601,118 +4601,118 @@ export default [
   },
   {
     id: 920,
-    title: '',
-    place: ''
+    title: 'Pinnaroo Country News (Lameroo, SA : 1908 - 1922)',
+    place: 'sa'
   },
   {
     id: 921,
-    title: '',
-    place: ''
+    title: 'The Queanbeyan Observer (NSW : 1894 - 1908; 1910 - 1915)',
+    place: 'nsw'
   },
   {
     id: 922,
-    title: '',
-    place: ''
+    title: 'Swan River Guardian (WA : 1836 - 1838)',
+    place: 'wa'
   },
   {
     id: 923,
-    title: '',
-    place: ''
+    title: 'Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 924,
-    title: '',
-    place: ''
+    title: 'Riverina Times, Hay Standard and Journal of Water Conservation (Hay, NSW : 1900 - 1902)',
+    place: 'nsw'
   },
   {
     id: 925,
-    title: '',
-    place: ''
+    title: 'South Bourke and Mornington Journal (Richmond, Vic. : 1877 - 1920; 1926 - 1927)',
+    place: 'nsw'
   },
   {
     id: 926,
-    title: '',
-    place: ''
+    title: 'South Australian Gazette and Colonial Register (Adelaide, SA : 1836 - 1839)',
+    place: 'sa'
   },
   {
     id: 927,
-    title: '',
-    place: ''
+    title: 'Mortlake Dispatch (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 928,
-    title: '',
-    place: ''
+    title: 'Sunday Times (Sydney, NSW : 1895 - 1930)',
+    place: 'nsw'
   },
   {
     id: 929,
-    title: '',
-    place: ''
+    title: 'Rainbow Argus (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 930,
-    title: '',
-    place: ''
+    title: 'Renmark Pioneer (SA : 1892 - 1913)',
+    place: 'sa'
   },
   {
     id: 931,
-    title: '',
-    place: ''
+    title: 'Penshurst Free Press (Vic. : 1901 - 1918)',
+    place: 'vic'
   },
   {
     id: 932,
-    title: '',
-    place: ''
+    title: 'The Tamworth Daily Observer (NSW : 1910 - 1916)',
+    place: 'nsw'
   },
   {
     id: 933,
-    title: '',
-    place: ''
+    title: 'The Scrutineer and Berrima District Press (NSW : 1892 - 1948)',
+    place: 'nsw'
   },
   {
     id: 934,
-    title: '',
-    place: ''
+    title: 'Queensland Figaro (Brisbane, Qld. : 1901 - 1936)',
+    place: 'qld'
   },
   {
     id: 935,
-    title: '',
-    place: ''
+    title: 'The Propeller (Hurstville, NSW : 1911 - 1954)',
+    place: 'nsw'
   },
   {
     id: 936,
-    title: '',
-    place: ''
+    title: 'Trafalgar and Yarragon Times (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 937,
-    title: '',
-    place: ''
+    title: 'Tocumwal Guardian and Riverina Stock Journal (NSW : 1919 - 1922)',
+    place: 'nsw'
   },
   {
     id: 938,
-    title: '',
-    place: ''
+    title: 'Seymour Express and Goulburn Valley, Avenel, Graytown, Nagambie, Tallarook and Yea Advertiser (Vic. : 1882 - 1891; 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 939,
-    title: '',
-    place: ''
+    title: 'Powlett Express and Victorian State Coalfields Advertiser (Vic. : 1915 - 1918)',
+    place: 'vic'
   },
   {
     id: 940,
-    title: '',
-    place: ''
+    title: 'The True Sun and New South Wales Independent Press (Sydney, NSW : 1844)',
+    place: 'nsw'
   },
   {
     id: 941,
-    title: '',
-    place: ''
+    title: 'Queenscliff Sentinel, Drysdale, Portarlington, Sorrento Advertiser (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 942,
-    title: '',
-    place: ''
+    title: 'Traralgon Record (Traralgon, Vic. : 1886 - 1932)',
+    place: 'vic'
   },
   {
     id: 943,
@@ -4721,8 +4721,8 @@ export default [
   },
   {
     id: 944,
-    title: '',
-    place: ''
+    title: 'Port Pirie Recorder and North Western Mail (SA : 1898 - 1918)',
+    place: 'sa'
   },
   {
     id: 945,
@@ -4731,103 +4731,103 @@ export default [
   },
   {
     id: 946,
-    title: '',
-    place: ''
+    title: 'Traralgon Record and Morwell, Mirboo,Toongabbie, Heyfield,Tyers and Callignee Advertiser (Traralgon, Vic. : 1883 - 1886)',
+    place: 'vic'
   },
   {
     id: 947,
-    title: '',
-    place: ''
+    title: 'Southern Advertiser (Bunbury, WA : 1888)',
+    place: 'wa'
   },
   {
     id: 948,
-    title: '',
-    place: ''
+    title: 'The Murrumbidgee Irrigator (Leeton, NSW : 1915 - 1954)',
+    place: 'nsw'
   },
   {
     id: 949,
-    title: '',
-    place: ''
+    title: 'Tribune (Melbourne, Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 950,
-    title: '',
-    place: ''
+    title: 'Van Diemen\'s Land Chronicle (Hobart, Tas. : 1841)',
+    place: 'tas'
   },
   {
     id: 951,
-    title: '',
-    place: ''
+    title: 'Wagga Wagga Express and Murrumbidgee District Advertiser (NSW : 1858 - 1859; 1866; 1872 - 1874)',
+    place: 'nsw'
   },
   {
     id: 952,
-    title: '',
-    place: ''
+    title: 'Nhill Free Press (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 953,
-    title: '',
-    place: ''
+    title: 'Western Champion (Parkes, NSW : 1898 - 1934)',
+    place: 'nsw'
   },
   {
     id: 954,
-    title: '',
-    place: ''
+    title: 'Westralian Clarion (Kalgoorlie, WA : 1903)',
+    place: 'wa'
   },
   {
     id: 955,
-    title: '',
-    place: ''
+    title: 'The Raleigh Sun (Bellingen, NSW : 1898 - 1918)',
+    place: 'nsw'
   },
   {
     id: 956,
-    title: '',
-    place: ''
+    title: 'The Van Diemen\'s Land Gazette and General Advertiser (Hobart, Tas. : 1814)',
+    place: 'tas'
   },
   {
     id: 957,
-    title: '',
-    place: ''
+    title: 'The Walcha News (NSW : 1932 - 1935)',
+    place: 'nsw'
   },
   {
     id: 958,
-    title: '',
-    place: ''
+    title: 'The Walcha News and Southern New England Advocate (NSW : 1904 - 1907; 1927)',
+    place: 'nsw'
   },
   {
     id: 959,
-    title: '',
-    place: ''
+    title: 'Mercury and Weekly Courier (Vic. : 1878 - 1903)',
+    place: 'vic'
   },
   {
     id: 960,
-    title: '',
-    place: ''
+    title: 'Zeehan and Dundas Herald (Tas. : 1890 - 1922)',
+    place: 'tas'
   },
   {
     id: 961,
-    title: '',
-    place: ''
+    title: 'Sydney Chronicle (NSW : 1846 - 1848)',
+    place: 'nsw'
   },
   {
     id: 962,
-    title: '',
-    place: ''
+    title: 'Walhalla Chronicle (Vic. : 1914)',
+    place: 'vic'
   },
   {
     id: 963,
-    title: '',
-    place: ''
+    title: 'Western Grazier (Wilcannia, NSW : 1896 - 1951)',
+    place: 'nsw'
   },
   {
     id: 964,
-    title: '',
-    place: ''
+    title: 'Queanbeyan-Canberra Advocate (NSW : 1905 - 1927)',
+    place: 'nsw'
   },
   {
     id: 965,
-    title: '',
-    place: ''
+    title: 'The Tasmanian Daily News (Hobart Town, Tas. : 1855 - 1858)',
+    place: 'tas'
   },
   {
     id: 966,
@@ -4836,13 +4836,13 @@ export default [
   },
   {
     id: 967,
-    title: '',
-    place: ''
+    title: 'Queensland Country Life (Qld. : 1900 - 1954)',
+    place: 'qld'
   },
   {
     id: 968,
-    title: '',
-    place: ''
+    title: 'Murrumburrah Signal and County of Harden Advocate (NSW : 1881 - 1947)',
+    place: 'nsw'
   },
   {
     id: 969,
@@ -4856,173 +4856,173 @@ export default [
   },
   {
     id: 971,
-    title: '',
-    place: ''
+    title: 'Quirindi Herald and District News (NSW : 1906 - 1907; 1913 - 1923)',
+    place: 'nsw'
   },
   {
     id: 972,
-    title: '',
-    place: ''
+    title: 'Westralian Worker (Perth, WA : 1900 - 1951)',
+    place: 'wa'
   },
   {
     id: 973,
-    title: '',
-    place: ''
+    title: 'The Western Champion (Blackall/Barcaldine, Qld. : 1879 - 1891)',
+    place: 'qld'
   },
   {
     id: 974,
-    title: '',
-    place: ''
+    title: 'Prahran Chronicle (Vic. : 1894 - 1906; 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 975,
-    title: '',
-    place: ''
+    title: 'The Walcha Witness and Vernon County Record (NSW : 1895 - 1906)',
+    place: 'nsw'
   },
   {
     id: 976,
-    title: '',
-    place: ''
+    title: 'Walhalla Chronicle and Moondarra Advertiser (Vic. : 1914 - 1915)',
+    place: 'vic'
   },
   {
     id: 977,
-    title: '',
-    place: ''
+    title: 'South Australian Gazette and Colonial Register (Adelaide, SA : 1845 - 1847)',
+    place: 'sa'
   },
   {
     id: 978,
-    title: '',
-    place: ''
+    title: 'The Maritime Worker (Melbourne, Vic. : 1938 - 1954)',
+    place: 'vic'
   },
   {
     id: 979,
-    title: '',
-    place: ''
+    title: 'Western Herald (Bourke, NSW : 1887 - 1970)',
+    place: 'nsw'
   },
   {
     id: 980,
-    title: '',
-    place: ''
+    title: 'Windsor Express and Richmond Advertiser (NSW : 1843 - 1844)',
+    place: 'nsw'
   },
   {
     id: 981,
-    title: '',
-    place: ''
+    title: 'Winner (Melbourne, Vic. : 1914 - 1917)',
+    place: 'vic'
   },
   {
     id: 982,
-    title: '',
-    place: ''
+    title: 'Norden (Melbourne, Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 983,
-    title: '',
-    place: ''
+    title: 'Sydney Free Press (NSW : 1841 - 1842)',
+    place: 'nsw'
   },
   {
     id: 984,
-    title: '',
-    place: ''
+    title: 'The Port Pirie Standard and Barrier Advertiser (SA : 1889 - 1898)',
+    place: 'sa'
   },
   {
     id: 985,
-    title: '',
-    place: ''
+    title: 'Maryborough and Dunolly Advertiser (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 986,
-    title: '',
-    place: ''
+    title: 'The Shipping Gazette and Sydney General Trade List (NSW : 1844 - 1860)',
+    place: 'nsw'
   },
   {
     id: 987,
-    title: '',
-    place: ''
+    title: 'Mirror (Perth, WA : 1921 - 1956)',
+    place: 'wa'
   },
   {
     id: 988,
-    title: '',
-    place: ''
+    title: 'The Sentinel (Sydney, NSW : 1845 - 1848)',
+    place: 'nsw'
   },
   {
     id: 989,
-    title: '',
-    place: ''
+    title: 'Morwell Advertiser (Morwell, Vic. : 1888 - 1954)',
+    place: 'vic'
   },
   {
     id: 990,
-    title: '',
-    place: ''
+    title: 'The Producer (Balaklava, SA : 1940 - 1950)',
+    place: 'sa'
   },
   {
     id: 991,
-    title: '',
-    place: ''
+    title: 'Warialda Standard and Northern Districts\' Advertiser (NSW : 1900 - 1954)',
+    place: 'nsw'
   },
   {
     id: 992,
-    title: '',
-    place: ''
+    title: 'The Riverine Grazier (Hay, NSW : 1873 - 1954)',
+    place: 'nsw'
   },
   {
     id: 993,
-    title: '',
-    place: ''
+    title: 'The Warialda Watchman (NSW : 1899)',
+    place: 'nsw'
   },
   {
     id: 994,
-    title: '',
-    place: ''
+    title: 'The Prahran Telegraph (Vic. : 1889 - 1930)',
+    place: 'vic'
   },
   {
     id: 995,
-    title: '',
-    place: ''
+    title: 'Wickepin Argus (WA : 1910 - 1934)',
+    place: 'wa'
   },
   {
     id: 996,
-    title: '',
-    place: ''
+    title: 'Truth (Melbourne ed.) (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 997,
-    title: '',
-    place: ''
+    title: 'The Western Champion and General Advertiser for the Central-Western Districts (Barcaldine, Qld. : 1892 - 1922)',
+    place: 'qld'
   },
   {
     id: 998,
-    title: '',
-    place: ''
+    title: 'Tungamah and Lake Rowan Express and St. James Gazette (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 999,
-    title: '',
-    place: ''
+    title: 'Wangaratta Chronicle (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1000,
-    title: '',
-    place: ''
+    title: 'The Southern Argus and Wagin-Arthur Express (Perth, WA : 1905 - 1924)',
+    place: 'wa'
   },
   {
     id: 1001,
-    title: '',
-    place: ''
+    title: 'Tamworth Observer and Northern Advertiser (NSW : 1910)',
+    place: 'nsw'
   },
   {
     id: 1002,
-    title: '',
-    place: ''
+    title: 'Western Star (Roma) (Toowoomba, Qld. : 1948 - 1954)',
+    place: 'qld'
   },
   {
     id: 1003,
-    title: '',
-    place: ''
+    title: 'The Tenterfield Courier and District Advocate (NSW : 1914)',
+    place: 'nsw'
   },
   {
     id: 1004,
-    title: '',
-    place: ''
+    title: 'The Yalgoo Observer and Murchison Chronicle (Meekatharra, WA : 1923 - 1941)',
+    place: 'wa'
   },
   {
     id: 1005,
@@ -5031,33 +5031,33 @@ export default [
   },
   {
     id: 1006,
-    title: '',
-    place: ''
+    title: 'Port Adelaide District Pictorial (SA : 1952 - 1954)',
+    place: 'sa'
   },
   {
     id: 1007,
-    title: '',
-    place: ''
+    title: 'The Moora Herald and Midland Districts Advocate (WA : 1914 - 1930)',
+    place: 'wa'
   },
   {
     id: 1008,
-    title: '',
-    place: ''
+    title: 'South Gippsland Shire Echo (Vic. : 1914 - 1918)',
+    place: 'nsw'
   },
   {
     id: 1009,
-    title: '',
-    place: ''
+    title: 'The Murrurundi Times and Liverpool Plains Gazette (NSW : 1874 - 1907; 1926 - 1929)',
+    place: 'nsw'
   },
   {
     id: 1010,
-    title: '',
-    place: ''
+    title: 'Warracknabeal Herald (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1011,
-    title: '',
-    place: ''
+    title: 'The Shoalhaven News and South Coast Districts Advertiser (NSW : 1891 - 1937)',
+    place: 'nsw'
   },
   {
     id: 1012,
@@ -5066,63 +5066,63 @@ export default [
   },
   {
     id: 1013,
-    title: '',
-    place: ''
+    title: 'The Methodist (Sydney, NSW : 1892 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1014,
-    title: '',
-    place: ''
+    title: 'Yilgarn Merredin Times (Southern Cross, WA : 1921 - 1923)',
+    place: 'wa'
   },
   {
     id: 1015,
-    title: '',
-    place: ''
+    title: 'The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842)',
+    place: 'nsw'
   },
   {
     id: 1016,
-    title: '',
-    place: ''
+    title: 'Record (Emerald Hill, Vic. : 1868 - 1872)',
+    place: 'vic'
   },
   {
     id: 1017,
-    title: '',
-    place: ''
+    title: 'South Australian Gazette and Mining Journal (Adelaide, SA : 1847 - 1852)',
+    place: 'sa'
   },
   {
     id: 1018,
-    title: '',
-    place: ''
+    title: 'Millthorpe Post (NSW : 1900 - 1901)',
+    place: 'nsw'
   },
   {
     id: 1019,
     title: 'Ipswich Herald and General Advertiser (Qld. : 1861)',
-    place: ''
+    place: 'qld'
   },
   {
     id: 1020,
-    title: '',
-    place: ''
+    title: 'The Shoalhaven News, Nowra (NSW : 1937)',
+    place: 'nsw'
   },
   {
     id: 1021,
-    title: '',
-    place: ''
+    title: 'Warragul Guardian (Warragul, Vic. : 1895 - 1900)',
+    place: 'vic'
   },
   {
     id: 1022,
-    title: '',
-    place: ''
+    title: 'Western Star and Roma Advertiser (Toowoomba, Qld. : 1875 - 1948)',
+    place: 'qld'
   },
   {
     id: 1023,
-    title: '',
-    place: ''
+    title: 'Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1024,
-    title: '',
-    place: ''
+    title: 'Pinnaroo and Border Times (SA : 1911 - 1954)',
+    place: 'sa'
   },
   {
     id: 1025,
@@ -5131,18 +5131,18 @@ export default [
   },
   {
     id: 1026,
-    title: '',
-    place: ''
+    title: 'Worker (Brisbane, Qld. : 1890 - 1955)',
+    place: 'qld'
   },
   {
     id: 1027,
-    title: '',
-    place: ''
+    title: 'Windsor and Richmond Gazette (NSW : 1888 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1028,
-    title: '',
-    place: ''
+    title: 'Wallaroo Times (Port Wallaroo, SA : 1882 - 1888)',
+    place: 'sa'
   },
   {
     id: 1029,
@@ -5151,33 +5151,33 @@ export default [
   },
   {
     id: 1030,
-    title: '',
-    place: ''
+    title: 'Norseman Esperance Guardian and Dundas Goldfields Advertiser (WA : 1896)',
+    place: 'wa'
   },
   {
     id: 1031,
-    title: '',
-    place: ''
+    title: 'Warragul Guardian and Buln Buln and Narracan Shire Advocate (Warragul, Vic. : 1879 - 1894)',
+    place: 'vic'
   },
   {
     id: 1032,
-    title: '',
-    place: ''
+    title: 'Wodonga and Towong Sentinel (Vic. : 1885 - 1954)',
+    place: 'vic'
   },
   {
     id: 1033,
-    title: '',
-    place: ''
+    title: 'The Wallaroo Times and Mining Journal (Port Wallaroo, SA : 1865 - 1881)',
+    place: 'sa'
   },
   {
     id: 1034,
-    title: '',
-    place: ''
+    title: 'Spectator and Methodist Chronicle (Melbourne, Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1035,
-    title: '',
-    place: ''
+    title: 'Weekly Herald (Adelaide, SA : 1894 - 1898)',
+    place: 'sa'
   },
   {
     id: 1036,
@@ -5186,18 +5186,18 @@ export default [
   },
   {
     id: 1037,
-    title: '',
-    place: ''
+    title: 'South Australian Weekly Chronicle (Adelaide, SA : 1858 - 1867)',
+    place: 'sa'
   },
   {
     id: 1038,
-    title: '',
-    place: ''
+    title: 'South Australian Register (Adelaide, SA : 1839 - 1900)',
+    place: 'sa'
   },
   {
     id: 1039,
-    title: '',
-    place: ''
+    title: 'Preston Leader (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1040,
@@ -5206,28 +5206,28 @@ export default [
   },
   {
     id: 1041,
-    title: '',
-    place: ''
+    title: 'Oakleigh Leader and District Record (Brighton, Vic. : 1887 - 1888)',
+    place: 'vic'
   },
   {
     id: 1042,
-    title: '',
-    place: ''
+    title: 'Sydney General Trade List (NSW : 1828 - 1829)',
+    place: 'nsw'
   },
   {
     id: 1043,
-    title: '',
-    place: ''
+    title: 'The North Eastern Ensign (Benalla, Vic. : 1872 - 1938)',
+    place: 'vic'
   },
   {
     id: 1044,
-    title: '',
-    place: ''
+    title: 'York Advocate (WA : 1915)',
+    place: 'wa'
   },
   {
     id: 1045,
-    title: '',
-    place: ''
+    title: 'Warragul Guardian and West Gippsland Advertiser (Warragul, Vic. : 1894)',
+    place: 'vic'
   },
   {
     id: 1046,
@@ -5236,18 +5236,18 @@ export default [
   },
   {
     id: 1047,
-    title: '',
-    place: ''
+    title: 'West Coast Sentinel (Streaky Bay, SA : 1912 - 1954)',
+    place: 'sa'
   },
   {
     id: 1048,
-    title: '',
-    place: ''
+    title: 'Miners\' Advocate and Northumberland Recorder (Newcastle, NSW : 1873 - 1876)',
+    place: 'nsw'
   },
   {
     id: 1049,
-    title: '',
-    place: ''
+    title: 'Whyalla News (SA : 1940 - 1954)',
+    place: 'sa'
   },
   {
     id: 1050,
@@ -5256,23 +5256,23 @@ export default [
   },
   {
     id: 1051,
-    title: '',
-    place: ''
+    title: 'Public Opinion (Melbourne, Vic. : 1914 - 1915)',
+    place: 'vic'
   },
   {
     id: 1052,
-    title: '',
-    place: ''
+    title: 'Australian Government Gazette. Periodic (National : 1974 - 1977)',
+    place: 'nat'
   },
   {
     id: 1053,
-    title: '',
-    place: ''
+    title: 'Taralga Echo (NSW : 1924 - 1927)',
+    place: 'nsw'
   },
   {
     id: 1054,
-    title: '',
-    place: ''
+    title: 'Woman Voter (Melbourne, Vic. : 1911 - 1919)',
+    place: 'vic'
   },
   {
     id: 1055,
@@ -5281,43 +5281,43 @@ export default [
   },
   {
     id: 1056,
-    title: '',
-    place: ''
+    title: 'Commonwealth of Australia Gazette (National : 1901 - 1973)',
+    place: 'nat'
   },
   {
     id: 1057,
-    title: '',
-    place: ''
+    title: 'Record (Emerald Hill, Vic. : 1881 - 1954)',
+    place: 'vic'
   },
   {
     id: 1058,
-    title: '',
-    place: ''
+    title: 'The Southern Cross Times (WA : 1900 - 1920)',
+    place: 'wa'
   },
   {
     id: 1059,
-    title: '',
-    place: ''
+    title: 'Woodend Star (Vic. : 1915 - 1918)',
+    place: 'vic'
   },
   {
     id: 1060,
-    title: '',
-    place: ''
+    title: 'Commonwealth of Australia Gazette. Periodic (National : 1977 - 2011)',
+    place: 'nat'
   },
   {
     id: 1061,
-    title: '',
-    place: ''
+    title: 'Newcastle Morning Herald and Miners\' Advocate (NSW : 1876 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1062,
-    title: '',
-    place: ''
+    title: 'The Norseman Pioneer (WA : 1896 - 1897)',
+    place: 'wa'
   },
   {
     id: 1063,
-    title: '',
-    place: ''
+    title: 'The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)',
+    place: 'vic'
   },
   {
     id: 1064,
@@ -5326,33 +5326,33 @@ export default [
   },
   {
     id: 1065,
-    title: '',
-    place: ''
+    title: 'The People\'s Advocate or True Friend of Tasmania (Launceston, Tas. : 1855 - 1856)',
+    place: 'tas'
   },
   {
     id: 1066,
-    title: '',
-    place: ''
+    title: 'Punch (Melbourne, Vic. : 1900 - 1918; 1925)',
+    place: 'vic'
   },
   {
     id: 1067,
-    title: '',
-    place: ''
+    title: 'North Melbourne Advertiser (Vic. : 1873 - 1894)',
+    place: 'vic'
   },
   {
     id: 1068,
-    title: '',
-    place: ''
+    title: 'The Perth Gazette and Independent Journal of Politics and News (WA : 1848 - 1864)',
+    place: 'wa'
   },
   {
     id: 1069,
-    title: '',
-    place: ''
+    title: 'The Protestant Standard (Sydney, NSW : 1869 - 1895)',
+    place: 'nsw'
   },
   {
     id: 1070,
-    title: '',
-    place: ''
+    title: 'Mount Magnet Miner and Lennonville Leader (WA : 1896 - 1926)',
+    place: 'wa'
   },
   {
     id: 1071,
@@ -5361,88 +5361,88 @@ export default [
   },
   {
     id: 1072,
-    title: '',
-    place: ''
+    title: 'Mackay Mercury (Qld. : 1887 - 1905)',
+    place: 'qld'
   },
   {
     id: 1073,
-    title: '',
-    place: ''
+    title: 'Warrnambool Standard (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1074,
-    title: '',
-    place: ''
+    title: 'The Muswellbrook Chronicle (NSW : 1898 - 1955)',
+    place: 'nsw'
   },
   {
     id: 1075,
-    title: '',
-    place: ''
+    title: 'Woomelang Sun and Lascelles and Ouyen Advocate (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1076,
-    title: '',
-    place: ''
+    title: 'Wedderburn Express and Korongshire Advertiser (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1077,
-    title: '',
-    place: ''
+    title: 'The Shoalhaven Telegraph (NSW : 1881 - 1937)',
+    place: 'nsw'
   },
   {
     id: 1078,
-    title: '',
-    place: ''
+    title: 'The Wooroora Producer (Balaklava, SA : 1909 - 1940)',
+    place: 'sa'
   },
   {
     id: 1079,
-    title: '',
-    place: ''
+    title: 'Sydney General Trade List (NSW : 1834 - 1842)',
+    place: 'nsw'
   },
   {
     id: 1080,
-    title: '',
-    place: ''
+    title: 'Government Gazette of the State of New South Wales (Sydney, NSW : 1901 - 2001)',
+    place: 'nsw'
   },
   {
     id: 1081,
-    title: '',
-    place: ''
+    title: 'Weekly News (Yarraville) (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1082,
-    title: '',
-    place: ''
+    title: 'Robertson Advocate (NSW : 1894 - 1923)',
+    place: 'nsw'
   },
   {
     id: 1083,
-    title: '',
-    place: ''
+    title: 'The Melbourne Advertiser (Vic. : 1838)',
+    place: 'vic'
   },
   {
     id: 1084,
-    title: '',
-    place: ''
+    title: 'South Australian Weekly Chronicle (Adelaide, SA : 1881 - 1889)',
+    place: 'sa'
   },
   {
     id: 1085,
-    title: '',
-    place: ''
+    title: 'The Tumut and Adelong Times (NSW : 1864 - 1867; 1899 - 1950)',
+    place: 'nsw'
   },
   {
     id: 1086,
-    title: '',
-    place: ''
+    title: 'Weekly Times (Melbourne, Vic. : 1869 - 1954)',
+    place: 'vic'
   },
   {
     id: 1087,
-    title: '',
-    place: ''
+    title: 'The Yackandandah Times (Vic. : 1890 - 1931)',
+    place: 'vic'
   },
   {
     id: 1088,
-    title: '',
-    place: ''
+    title: 'The Tumut Advocate and Farmers and Settlers\' Adviser (NSW : 1903 - 1925)',
+    place: 'nsw'
   },
   {
     id: 1089,
@@ -5451,98 +5451,98 @@ export default [
   },
   {
     id: 1090,
-    title: '',
-    place: ''
+    title: 'Tung Wah News (Sydney, NSW : 1898 - 1902)',
+    place: 'nsw'
   },
   {
     id: 1091,
-    title: '',
-    place: ''
+    title: 'Yorke\'s Peninsula Advertiser (SA : 1878 - 1922)',
+    place: 'sa'
   },
   {
     id: 1092,
-    title: '',
-    place: ''
+    title: 'Sporting Globe (Melbourne, Vic. : 1922 - 1954)',
+    place: 'vic'
   },
   {
     id: 1093,
-    title: '',
-    place: ''
+    title: 'The Perth Gazette and West Australian Times (WA : 1864 - 1874)',
+    place: 'wa'
   },
   {
     id: 1094,
-    title: '',
-    place: ''
+    title: 'Tung Wah Times (Sydney, NSW : 1902; 1911 - 1936)',
+    place: 'nsw'
   },
   {
     id: 1095,
-    title: '',
-    place: ''
+    title: 'Yorke\'s Peninsula Advertiser and Miners\' News (SA : 1872 - 1874)',
+    place: 'sa'
   },
   {
     id: 1096,
-    title: '',
-    place: ''
+    title: 'Omeo Standard and Mining Gazette (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1097,
-    title: '',
-    place: ''
+    title: 'New South Wales Government Gazette (Sydney, NSW : 1832 - 1900)',
+    place: 'nsw'
   },
   {
     id: 1098,
-    title: '',
-    place: ''
+    title: 'Singleton Argus (NSW : 1880 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1099,
-    title: '',
-    place: ''
+    title: 'The Record and Emerald Hill and Sandridge Advertiser (Vic. : 1872 - 1881)',
+    place: 'vic'
   },
   {
     id: 1100,
-    title: '',
-    place: ''
+    title: 'The Tasmanian Democrat (Launceston, Tas. : 1891 - 1898)',
+    place: 'tas'
   },
   {
     id: 1101,
-    title: '',
-    place: ''
+    title: 'The Teetotaller and General Newspaper (Sydney, NSW : 1842 - 1843)',
+    place: 'nsw'
   },
   {
     id: 1102,
-    title: '',
-    place: ''
+    title: 'Oakleigh and Caulfield Times Mulgrave and Ferntree Gully Guardian (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1103,
-    title: '',
-    place: ''
+    title: 'Pittsworth Sentinel (Qld. : 1919 - 1954)',
+    place: 'qld'
   },
   {
     id: 1104,
-    title: '',
-    place: ''
+    title: 'Reporter (Box Hill, Vic. : 1889 - 1918)',
+    place: 'vic'
   },
   {
     id: 1105,
-    title: '',
-    place: ''
+    title: 'The Wingham Chronicle and Manning River Observer (NSW : 1898 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1106,
-    title: '',
-    place: ''
+    title: 'The Singleton Argus and Upper Hunter General Advocate (NSW : 1874 - 1880)',
+    place: 'nsw'
   },
   {
     id: 1107,
-    title: '',
-    place: ''
+    title: 'The South Eastern Times (Millicent, SA : 1906 - 1954)',
+    place: 'sa'
   },
   {
     id: 1108,
-    title: '',
-    place: ''
+    title: 'Sydney General Trade List, Mercantile Chronicle and Advertiser (NSW : 1830)',
+    place: 'nsw'
   },
   {
     id: 1109,
@@ -5551,93 +5551,93 @@ export default [
   },
   {
     id: 1110,
-    title: '',
-    place: ''
+    title: 'Woroni (Canberra, ACT : 1950 - 2007)',
+    place: 'act'
   },
   {
     id: 1111,
-    title: '',
-    place: ''
+    title: 'Watchman (Sydney, NSW : 1902 - 1926)',
+    place: 'nsw'
   },
   {
     id: 1112,
-    title: '',
-    place: ''
+    title: 'The Weekly Register of Politics, Facts and General Literature (Sydney, NSW : 1843 - 1845)',
+    place: 'nsw'
   },
   {
     id: 1113,
-    title: '',
-    place: ''
+    title: 'Norseman Times (WA : 1898 - 1920)',
+    place: 'wa'
   },
   {
     id: 1114,
-    title: '',
-    place: ''
+    title: 'The Newcastle Sun (NSW : 1918 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1115,
-    title: '',
-    place: ''
+    title: 'Frearson\'s Monthly Illustrated Adelaide News (SA : 1880 - 1884)',
+    place: 'sa'
   },
   {
     id: 1116,
-    title: '',
-    place: ''
+    title: 'Richmond Australian (Vic. : 1914 - 1916)',
+    place: 'vic'
   },
   {
     id: 1117,
-    title: '',
-    place: ''
+    title: 'The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881)',
+    place: 'nsw'
   },
   {
     id: 1118,
-    title: '',
-    place: ''
+    title: 'The Mt. Leonora Miner (WA : 1899 - 1910)',
+    place: 'wa'
   },
   {
     id: 1119,
-    title: '',
-    place: ''
+    title: 'Robertson Mail (NSW : 1924 - 1930)',
+    place: 'nsw'
   },
   {
     id: 1120,
-    title: '',
-    place: ''
+    title: 'Tasmanian Evening Herald (Launceston, Tas. : 1878)',
+    place: 'tas'
   },
   {
     id: 1121,
-    title: '',
-    place: ''
+    title: 'The Wollondilly Press (NSW : 1906 - 1914)',
+    place: 'nsw'
   },
   {
     id: 1122,
-    title: '',
-    place: ''
+    title: 'The Newsletter: an Australian Paper for Australian People (Sydney, NSW : 1900 - 1919)',
+    place: 'nsw'
   },
   {
     id: 1123,
-    title: '',
-    place: ''
+    title: 'The Yarragon, Trafalgar and Moe Settlement News (Vic. : 1904 - 1920)',
+    place: 'vic'
   },
   {
     id: 1124,
-    title: '',
-    place: ''
+    title: 'Weekly Times Annual (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1125,
-    title: '',
-    place: ''
+    title: 'The Macleay Chronicle (Kempsey, NSW : 1899 - 1952)',
+    place: 'nsw'
   },
   {
     id: 1126,
-    title: '',
-    place: ''
+    title: 'Gadfly (Adelaide, SA : 1906 - 1909)',
+    place: 'sa'
   },
   {
     id: 1127,
-    title: '',
-    place: ''
+    title: 'Werribee Shire Banner (Vic. : 1911 - 1952)',
+    place: 'vic'
   },
   {
     id: 1128,
@@ -5646,8 +5646,8 @@ export default [
   },
   {
     id: 1129,
-    title: '',
-    place: ''
+    title: 'Southern Argus (Port Elliot, SA : 1866 - 1954)',
+    place: 'sa'
   },
   {
     id: 1130,
@@ -5656,8 +5656,8 @@ export default [
   },
   {
     id: 1131,
-    title: '',
-    place: ''
+    title: 'Sydney General Trade List, and Mercantile Advertiser (NSW : 1829 - 1830)',
+    place: 'nsw'
   },
   {
     id: 1132,
@@ -5666,8 +5666,8 @@ export default [
   },
   {
     id: 1133,
-    title: '',
-    place: ''
+    title: 'The Perth Gazette and Western Australian Journal (WA : 1833 - 1847)',
+    place: 'wa'
   },
   {
     id: 1134,
@@ -5676,28 +5676,28 @@ export default [
   },
   {
     id: 1135,
-    title: '',
-    place: ''
+    title: 'The Pilbarra Goldfield News (Marble Bar, WA : 1897 - 1923)',
+    place: 'wa'
   },
   {
     id: 1136,
-    title: '',
-    place: ''
+    title: 'Morwell Advertiser and Weekly Chronicle (Morwell, Vic. : 1887 - 1888)',
+    place: 'vic'
   },
   {
     id: 1137,
-    title: '',
-    place: ''
+    title: 'Smith\'s Weekly (Sydney, NSW : 1919 - 1950)',
+    place: 'nsw'
   },
   {
     id: 1138,
-    title: '',
-    place: ''
+    title: 'The Melbourne Argus (Vic. : 1846 - 1848)',
+    place: 'vic'
   },
   {
     id: 1139,
-    title: '',
-    place: ''
+    title: 'The Gateway (Port Adelaide, SA : 1946)',
+    place: 'sa'
   },
   {
     id: 1140,
@@ -5706,28 +5706,28 @@ export default [
   },
   {
     id: 1141,
-    title: '',
-    place: ''
+    title: 'Glenelg Guardian (SA : 1914 - 1936)',
+    place: 'sa'
   },
   {
     id: 1142,
-    title: '',
-    place: ''
+    title: 'Society (Sydney, NSW : 1887)',
+    place: 'nsw'
   },
   {
     id: 1143,
-    title: '',
-    place: ''
+    title: 'North West Champion (Moree, NSW : 1915 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1144,
-    title: '',
-    place: ''
+    title: 'Murchison Advocate (WA : 1898 - 1912)',
+    place: 'wa'
   },
   {
     id: 1145,
-    title: '',
-    place: ''
+    title: 'Sporting Judge (Melbourne, Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1146,
@@ -5736,38 +5736,38 @@ export default [
   },
   {
     id: 1147,
-    title: '',
-    place: ''
+    title: 'Ouyen Mail (Vic. : 1915 - 1918)',
+    place: 'vic'
   },
   {
     id: 1148,
-    title: '',
-    place: ''
+    title: 'Good Neighbour (ACT : 1950 - 1969)',
+    place: 'act'
   },
   {
     id: 1149,
-    title: '',
-    place: ''
+    title: 'The South Australian Colonist and Settlers\' Weekly Record of British, Foreign and Colonial Intelligence (London, England : 1840)',
+    place: 'nat'
   },
   {
     id: 1150,
-    title: '',
-    place: ''
+    title: 'Southern Australian (Adelaide, SA : 1838 - 1844)',
+    place: 'sa'
   },
   {
     id: 1151,
-    title: '',
-    place: ''
+    title: 'The Melbourne Courier (Vic. : 1845 - 1846)',
+    place: 'vic'
   },
   {
     id: 1152,
-    title: '',
-    place: ''
+    title: 'The Temora Advertiser (NSW : 1939)',
+    place: 'nsw'
   },
   {
     id: 1153,
-    title: '',
-    place: ''
+    title: 'Yea Chronicle (Yea, Vic. : 1891 - 1920)',
+    place: 'vic'
   },
   {
     id: 1154,
@@ -5776,23 +5776,23 @@ export default [
   },
   {
     id: 1155,
-    title: '',
-    place: ''
+    title: 'The Temperance Advocate and Australasian Commercial and Agricultural Intelligencer (Sydney, NSW : 1840 - 1841)',
+    place: 'nsw'
   },
   {
     id: 1156,
-    title: '',
-    place: ''
+    title: 'The Northam Advertiser (WA : 1895 - 1918; 1948 - 1954)',
+    place: 'wa'
   },
   {
     id: 1157,
-    title: '',
-    place: ''
+    title: 'Morwell and Yinnar Gazette (Vic. : 1914 - 1916)',
+    place: 'vic'
   },
   {
     id: 1158,
-    title: '',
-    place: ''
+    title: 'Tweed Daily (Murwillumbah, NSW : 1914 - 1949)',
+    place: 'nsw'
   },
   {
     id: 1159,
@@ -5801,73 +5801,73 @@ export default [
   },
   {
     id: 1160,
-    title: '',
-    place: ''
+    title: 'The W.A. Bulletin (Fremantle, WA : 1888 - 1890)',
+    place: 'wa'
   },
   {
     id: 1161,
-    title: '',
-    place: ''
+    title: 'The Worker (Wagga, NSW : 1892 - 1913)',
+    place: 'nsw'
   },
   {
     id: 1162,
-    title: '',
-    place: ''
+    title: 'Richmond Guardian (Vic. : 1917 - 1918)',
+    place: 'vic'
   },
   {
     id: 1163,
-    title: '',
-    place: ''
+    title: 'The W.A. Record (Perth, WA : 1888 - 1922)',
+    place: 'wa'
   },
   {
     id: 1164,
-    title: '',
-    place: ''
+    title: 'Sportsman (Melbourne, Vic. : 1882 - 1904)',
+    place: 'vic'
   },
   {
     id: 1165,
-    title: '',
-    place: ''
+    title: 'The Murchison Times and Day Dawn Gazette (Cue, WA : 1894 - 1925)',
+    place: 'wa'
   },
   {
     id: 1166,
-    title: '',
-    place: ''
+    title: 'Nambucca News (NSW : 1909 - 1913)',
+    place: 'nsw'
   },
   {
     id: 1167,
-    title: '',
-    place: ''
+    title: 'WA Sportsman (Perth, WA : 1914 - 1918)',
+    place: 'wa'
   },
   {
     id: 1168,
-    title: '',
-    place: ''
+    title: 'West Gippsland Gazette (Warragul, Vic. : 1898 - 1930)',
+    place: 'vic'
   },
   {
     id: 1169,
-    title: '',
-    place: ''
+    title: 'The West Australian (Perth, WA : 1879 - 1954)',
+    place: 'wa'
   },
   {
     id: 1170,
-    title: '',
-    place: ''
+    title: 'The Melbourne Daily News (Vic. : 1848 - 1851)',
+    place: 'vic'
   },
   {
     id: 1171,
-    title: '',
-    place: ''
+    title: 'Tasmanian Morning Herald (Hobart, Tas. : 1865 - 1866)',
+    place: 'tas'
   },
   {
     id: 1172,
-    title: '',
-    place: ''
+    title: 'Mount Alexander Mail (Vic. : 1854 - 1917)',
+    place: 'vic'
   },
   {
     id: 1173,
-    title: '',
-    place: ''
+    title: 'The Southern Districts Advocate (Katanning, WA : 1913 - 1936)',
+    place: 'wa'
   },
   {
     id: 1174,
@@ -5876,23 +5876,23 @@ export default [
   },
   {
     id: 1175,
-    title: '',
-    place: ''
+    title: 'The Southern Cross Times (WA : 1923 - 1940)',
+    place: 'wa'
   },
   {
     id: 1176,
-    title: '',
-    place: ''
+    title: 'South Coast Times and Wollongong Argus (NSW : 1900 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1177,
-    title: '',
-    place: ''
+    title: 'The Melbourne Daily News and Port Phillip Patriot (Vic. : 1848)',
+    place: 'vic'
   },
   {
     id: 1178,
-    title: '',
-    place: ''
+    title: 'The People\'s Horn Boy (Hobart Town, Tas. : 1834)',
+    place: 'tas'
   },
   {
     id: 1179,
@@ -5901,118 +5901,118 @@ export default [
   },
   {
     id: 1180,
-    title: '',
-    place: ''
+    title: 'Wellington Times (NSW : 1899 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1181,
-    title: '',
-    place: ''
+    title: 'The Melbourne Leader (Vic. : 1861)',
+    place: 'vic'
   },
   {
     id: 1182,
-    title: '',
-    place: ''
+    title: 'Yorke\'s Peninsula Advertiser and Miners\' and Farmers\' Journal (SA : 1875 - 1878)',
+    place: 'sa'
   },
   {
     id: 1183,
-    title: '',
-    place: ''
+    title: 'The Mining Record and Grenfell General Advertiser (NSW : 1867 - 1876)',
+    place: 'nsw'
   },
   {
     id: 1184,
-    title: '',
-    place: ''
+    title: 'St Arnaud Mercury (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1185,
-    title: '',
-    place: ''
+    title: 'Weekly Examiner (Launceston, Tas. : 1872 - 1878)',
+    place: 'tas'
   },
   {
     id: 1186,
-    title: '',
-    place: ''
+    title: 'Mount Wycheproof Ensign and East Wimmera Advocate (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1187,
-    title: '',
-    place: ''
+    title: 'The World\'s News (Sydney, NSW : 1901 - 1955)',
+    place: 'nsw'
   },
   {
     id: 1188,
-    title: '',
-    place: ''
+    title: 'West Australian Sunday Times (Perth, WA : 1897 - 1902)',
+    place: 'wa'
   },
   {
     id: 1189,
-    title: '',
-    place: ''
+    title: 'Melbourne Punch (Vic. : 1855 - 1900)',
+    place: 'vic'
   },
   {
     id: 1190,
-    title: '',
-    place: ''
+    title: 'The Workers\' Weekly (Sydney, NSW : 1923 - 1939)',
+    place: 'nsw'
   },
   {
     id: 1191,
-    title: '',
-    place: ''
+    title: 'The Pingelly Leader (WA : 1906 - 1925)',
+    place: 'wa'
   },
   {
     id: 1192,
-    title: '',
-    place: ''
+    title: 'North Melbourne Courier and West Melbourne Advertiser (Vic. : 1895 - 1913)',
+    place: 'vic'
   },
   {
     id: 1193,
-    title: '',
-    place: ''
+    title: 'Temora Herald and Mining Journal (NSW : 1882 - 1883)',
+    place: 'nsw'
   },
   {
     id: 1194,
-    title: '',
-    place: ''
+    title: 'West Wimmera Mail and Natimuk Advertiser (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1195,
-    title: '',
-    place: ''
+    title: 'The North Western Courier (Narrabri, NSW : 1913 - 1955)',
+    place: 'nsw'
   },
   {
     id: 1196,
-    title: '',
-    place: ''
+    title: 'The Weekly Times (Hobart Town, Tas. : 1863)',
+    place: 'tas'
   },
   {
     id: 1197,
-    title: '',
-    place: ''
+    title: 'Murchison Advertiser and Murchison, Toolamba, Mooroopna and Dargalong Express (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1198,
-    title: '',
-    place: ''
+    title: 'The Wyalong Advocate and Mining, Agricultural and Pastoral Gazette (NSW : 1900 - 1928)',
+    place: 'nsw'
   },
   {
     id: 1199,
-    title: '',
-    place: ''
+    title: 'Southern Cross (Adelaide, SA : 1889 - 1954)',
+    place: 'sa'
   },
   {
     id: 1200,
-    title: '',
-    place: ''
+    title: 'Melbourne Times (Vic. : 1842 - 1843)',
+    place: 'vic'
   },
   {
     id: 1201,
-    title: '',
-    place: ''
+    title: 'The Wyalong Star and Temora and Barmedman Advertiser (West Wyalong, NSW : 1894 - 1895; 1899 - 1906)',
+    place: 'nsw'
   },
   {
     id: 1202,
-    title: '',
-    place: ''
+    title: 'Willaura Farmer (Vic. : 1914 - 1916)',
+    place: 'vic'
   },
   {
     id: 1203,
@@ -6021,23 +6021,23 @@ export default [
   },
   {
     id: 1204,
-    title: '',
-    place: ''
+    title: 'Pingelly-Brookton Leader (WA : 1925 - 1926)',
+    place: 'wa'
   },
   {
     id: 1205,
-    title: '',
-    place: ''
+    title: 'The Maitland Daily Mercury (NSW : 1894 - 1939)',
+    place: 'nsw'
   },
   {
     id: 1206,
-    title: '',
-    place: ''
+    title: 'The Temora Star (NSW : 1881 - 1883; 1899 - 1906; 1914; 1925; 1933)',
+    place: 'nsw'
   },
   {
     id: 1207,
-    title: '',
-    place: ''
+    title: 'The St. James and Devenish Herald (Dookie, Vic. : 1905)',
+    place: 'vic'
   },
   {
     id: 1208,
@@ -6046,73 +6046,73 @@ export default [
   },
   {
     id: 1209,
-    title: '',
-    place: ''
+    title: 'The West Australian Times (Perth, WA : 1863 - 1864)',
+    place: 'wa'
   },
   {
     id: 1210,
-    title: '',
-    place: ''
+    title: 'Wellington Times and Agricultural and Mining Gazette (Tas. : 1890 - 1897)',
+    place: 'tas'
   },
   {
     id: 1211,
-    title: '',
-    place: ''
+    title: 'The Northern Champion (Taree, NSW : 1913 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1212,
-    title: '',
-    place: ''
+    title: 'Western Argus (Kalgoorlie, WA : 1894 - 1896)',
+    place: 'wa'
   },
   {
     id: 1213,
-    title: '',
-    place: ''
+    title: 'The Mirror (Sydney, NSW : 1917 - 1919)',
+    place: 'nsw'
   },
   {
     id: 1214,
-    title: '',
-    place: ''
+    title: 'Tasmanian News (Hobart, Tas. : 1883 - 1911)',
+    place: 'tas'
   },
   {
     id: 1215,
-    title: '',
-    place: ''
+    title: 'Williamstown Advertiser (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1216,
-    title: '',
-    place: ''
+    title: 'The Young Chronicle (NSW : 1902 - 1910; 1913 - 1915; 1924 - 1934; 1936 - 1940)',
+    place: 'nsw'
   },
   {
     id: 1217,
-    title: '',
-    place: ''
+    title: 'Western Argus (Kalgoorlie, WA : 1916 - 1938)',
+    place: 'wa'
   },
   {
     id: 1218,
-    title: '',
-    place: ''
+    title: 'Ouyen Mail and Central Mallee Advertiser (Vic. : 1914 - 1915)',
+    place: 'vic'
   },
   {
     id: 1219,
-    title: '',
-    place: ''
+    title: 'The Western Australian Times (Perth, WA : 1874 - 1879)',
+    place: 'wa'
   },
   {
     id: 1220,
-    title: '',
-    place: ''
+    title: 'North Melbourne Gazette (Vic. : 1894 - 1901)',
+    place: 'vic'
   },
   {
     id: 1221,
-    title: '',
-    place: ''
+    title: 'Southern Times (Bunbury, WA : 1888 - 1916)',
+    place: 'wa'
   },
   {
     id: 1222,
-    title: '',
-    place: ''
+    title: 'Ouyen and North West Express (Vic. : 1918)',
+    place: 'vic'
   },
   {
     id: 1223,
@@ -6121,33 +6121,33 @@ export default [
   },
   {
     id: 1224,
-    title: '',
-    place: ''
+    title: 'The Mirror of Australia (Sydney, NSW : 1915 - 1917)',
+    place: 'nsw'
   },
   {
     id: 1225,
-    title: '',
-    place: ''
+    title: 'Pakenham Gazette and Berwick Shire News (Pakenham East, Vic. : 1917 - 1918)',
+    place: 'vic'
   },
   {
     id: 1226,
-    title: '',
-    place: ''
+    title: 'The Northern Daily Leader (Tamworth, NSW : 1921)',
+    place: 'nsw'
   },
   {
     id: 1227,
-    title: '',
-    place: ''
+    title: 'The Melbourne Weekly Courier (Vic. : 1844 - 1845)',
+    place: 'vic'
   },
   {
     id: 1228,
-    title: '',
-    place: ''
+    title: 'Queensland Figaro (Brisbane, Qld. : 1883 - 1885)',
+    place: 'qld'
   },
   {
     id: 1229,
-    title: '',
-    place: ''
+    title: 'Molong Argus (NSW : 1896 - 1921)',
+    place: 'nsw'
   },
   {
     id: 1230,
@@ -6156,33 +6156,33 @@ export default [
   },
   {
     id: 1231,
-    title: '',
-    place: ''
+    title: 'Sport (Adelaide, SA : 1911 - 1948)',
+    place: 'sa'
   },
   {
     id: 1232,
-    title: '',
-    place: ''
+    title: 'Parramatta Chronicle and Cumberland General Advertiser (NSW : 1843 - 1845)',
+    place: 'nsw'
   },
   {
     id: 1233,
-    title: '',
-    place: ''
+    title: 'Tasmanian Punch (Hobart Town, Tas. : 1866)',
+    place: 'tas'
   },
   {
     id: 1234,
-    title: '',
-    place: ''
+    title: 'Northcote Leader (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1235,
-    title: '',
-    place: ''
+    title: 'The Temora Telegraph and Mining Advocate (NSW : 1880)',
+    place: 'nsw'
   },
   {
     id: 1236,
-    title: '',
-    place: ''
+    title: 'Ovens and Murray Advertiser (Beechworth, Vic. : 1855 - 1918)',
+    place: 'vic'
   },
   {
     id: 1237,
@@ -6191,23 +6191,23 @@ export default [
   },
   {
     id: 1238,
-    title: '',
-    place: ''
+    title: 'Myrtleford Mail and Whorouly Witness (Vic. : 1914 - 1918)',
+    place: 'vic'
   },
   {
     id: 1239,
-    title: '',
-    place: ''
+    title: 'The Magnet Mirror and Murchison Reflector (Meekatharra, WA : 1928 - 1935)',
+    place: 'wa'
   },
   {
     id: 1240,
-    title: '',
-    place: ''
+    title: 'Melton Express (Vic. : 1915 - 1918)',
+    place: 'vic'
   },
   {
     id: 1241,
-    title: '',
-    place: ''
+    title: 'The Maitland Mercury (NSW : 1939)',
+    place: 'nsw'
   },
   {
     id: 1242,
@@ -6216,18 +6216,18 @@ export default [
   },
   {
     id: 1243,
-    title: '',
-    place: ''
+    title: 'The Mail (Fremantle, WA : 1904 - 1905)',
+    place: 'wa'
   },
   {
     id: 1244,
-    title: '',
-    place: ''
+    title: 'Nambucca and Bellinger News (NSW : 1911 - 1945)',
+    place: 'nsw'
   },
   {
     id: 1245,
-    title: '',
-    place: ''
+    title: 'Northam Courier (WA : 1909 - 1922)',
+    place: 'wa'
   },
   {
     id: 1246,
@@ -6246,22 +6246,22 @@ export default [
   },
   {
     id: 1249,
-    title: '',
-    place: ''
+    title: 'Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)',
+    place: 'qld'
   },
   {
     id: 1250,
-    title: '',
-    place: ''
+    title: 'Molong Express and Western District Advertiser (NSW : 1887 - 1954)',
+    place: 'nsw'
   },
   {
     id: 1251,
-    title: '',
-    place: ''
+    title: 'Mercury (Fitzroy, Vic. : 1875 - 1877)',
+    place: 'vic'
   },
   {
     id: 1252,
-    title: '',
-    place: ''
+    title: 'The Pioneer (Yorketown, SA : 1898 - 1954)',
+    place: 'sa'
   }
 ]
