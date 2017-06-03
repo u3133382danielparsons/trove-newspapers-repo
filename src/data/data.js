@@ -36,12 +36,12 @@ export default [
   },
   {
     id: 6,
-    title: 'Daniel Parsons',
-    place: 'sa'
+    title: 'The Children\'s Newspaper (Sydney, NSW : 1899 - 1900)',
+    place: 'nsw'
   },
   {
     id: 7,
-    title: 'Caroline',
+    title: 'The Federalist (Launceston, Tas. :1898 - 1899)',
     place: 'tas'
   },
   {
@@ -447,7 +447,7 @@ export default [
   {
     id: 88,
     title: 'Observer (Adelaide, SA : 1905 - 1931)',
-    place: 'wa'
+    place: 'sa'
   },
   {
     id: 89,

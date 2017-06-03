@@ -42,81 +42,122 @@ li {
   position: relative;
   list-style: none;
   display: inline-block;
+  outline: none;
   padding: 0.25rem 0.75rem;
-  margin: 2px;
-  border-radius: 3px; }
+  margin: 5px;
+  border: solid 1px #da7c0c;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  padding: .5em 2em .55em;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  -webkit-border-radius: .5em;
+  -moz-border-radius: .5em;
+  border-radius: .3em;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); }
 
 li:hover {
   cursor: pointer; }
 
 li.nsw {
+  border: solid 2px #1a1d6e;
   background: #86c9e3;
+  background: -webkit-gradient(linear, left top, left bottom, from(#a6d7ea), to(#36a5d1));
+  background: -moz-linear-gradient(top, #a6d7ea, #36a5d1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a6d7ea', endColorstr='#36a5d1');
   color: #ffffff; }
 
 li.nsw:hover {
   background: #afdbed; }
 
 li.vic {
+  border: solid 2px #5f607e;
   background: #02033f;
+  background: -webkit-gradient(linear, left top, left bottom, from(#4d4e78), to(#010232));
+  background: -moz-linear-gradient(top, #4d4e78, #010232);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4d4e78', endColorstr='#010232');
   color: #ffffff; }
 
 li.vic:hover {
   background: #040570; }
 
 li.qld {
+  border: solid 2px #250b14;
   background: #ad335f;
-  color: #ffffff; }
+  color: #ffffff;
+  background: -webkit-gradient(linear, left top, left bottom, from(#c74071), to(#8f2a4e));
+  background: -moz-linear-gradient(top, #c74071, #8f2a4e);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c74071', endColorstr='#8f2a4e'); }
 
 li.qld:hover {
   background: #c94a78; }
 
 li.sa {
+  border: solid 2px #5b050e;
   background: #f00c25;
+  background: -webkit-gradient(linear, left top, left bottom, from(#f52f44), to(#cb0a1f));
+  background: -moz-linear-gradient(top, #f52f44, #cb0a1f);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f52f44', endColorstr='#cb0a1f');
   color: #fed530; }
 
 li.sa:hover {
   background: #f53a4e; }
 
 li.wa {
-  background: #fed530; }
+  border: solid 2px #080600;
+  background: #fed530;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fedd57), to(#fecd09));
+  background: -moz-linear-gradient(top, #fedd57, #fecd09);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fedd57', endColorstr='#fecd09'); }
 
 li.wa:hover {
   background: #fedf63; }
 
 li.tas {
+  border: solid 2px #042a1f;
   background: #0b694f;
+  background: -webkit-gradient(linear, left top, left bottom, from(#3b8772), to(#08543f));
+  background: -moz-linear-gradient(top, #3b8772, #08543f);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3b8772', endColorstr='#08543f');
   color: #ffffff; }
 
 li.tas:hover {
   background: #109772; }
 
 li.act {
+  border: solid 2px #021434;
   background: #053384;
+  background: -webkit-gradient(linear, left top, left bottom, from(#365b9c), to(#042869));
+  background: -moz-linear-gradient(top, #365b9c, #042869);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#365b9c', endColorstr='#042869');
   color: #fecc2f; }
 
 li.act:hover {
   background: #0746b5; }
 
 li.nt {
+  border: solid 2px #441b08;
   background: #e45a1c;
+  background: -webkit-gradient(linear, left top, left bottom, from(#e66a32), to(#cd5119));
+  background: -moz-linear-gradient(top, #e66a32, #cd5119);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e66a32', endColorstr='#cd5119');
   color: #000000; }
 
 li.nt:hover {
   background: #e97b4a; }
 
-li.nat {
+li.nat, li.int {
+  border: solid 2px #000000;
   background: #000000;
+  background: -webkit-gradient(linear, left top, left bottom, from(#111111), to(#222222));
+  background: -moz-linear-gradient(top, #111111, #222222);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#111111', endColorstr='#222222');
   color: #ffffff; }
 
-li.nat:hover {
-  background: #1a1a1a; }
-
-li.int {
-  background: #000000;
-  color: #ffffff; }
-
-li.int:hover {
-  background: #e6e6e6; }
+li.nat:hover, li.int:hover {
+  background: #333333; }
 
 /* ##### Favourites ##### */
 .favourites li:hover:before {
