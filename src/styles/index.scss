@@ -22,11 +22,23 @@ $nt-border:#441b08;
 * {
   margin-top: 0 !important;
 }
-body {
-
-  background-color:$background-color;
+html {
+  height: 100%;
 }
-.flex-container {
+.content{
+  flex: 1 0 auto;
+  padding: 20px;
+}
+header,footer {
+  padding: 20px;
+}
+body {
+  background-color:$background-color;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+/*.flex-container {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -34,15 +46,13 @@ body {
   min-height: 1000px;
   height: 100%;
 }
-
-
-/* ##### Search ##### */
 header {
   background: #3498db;
   margin-bottom: 2rem;
   height: 60px;
   width: 100%
-}
+}*/
+/* ##### Search ##### */
 header h1 {
   padding-top: .2em;
   text-align: center;
@@ -59,14 +69,14 @@ input[type='text'] {
   height: 4rem;
 }
 
-/* ##### NamesList ##### */
+/* ##### NewspapersList ##### */
 ul {
   padding: 0;
 }
 li {
   position: relative;
   list-style: none;
-  display: inline-block;
+  //display: inline-block;
   outline: none;
   padding: 0.25rem 0.75rem;
   margin: 5px;
@@ -187,7 +197,7 @@ li.nat:hover,li.int:hover {
 }
 
 
-/* ##### Favourites ##### */
+/* ##### Favourites #####
 .favourites li:hover:before {
   content: '\00D7';
   position: absolute;
@@ -219,7 +229,7 @@ li.nat:hover,li.int:hover {
   margin: 1.75rem 0;
 }
 
-/* ##### Footer ##### */
+ ##### Footer ##### 
 .credit {
   padding: 1rem 0;
   color: #b3b3b3;
@@ -240,4 +250,4 @@ button {
 }
 button:hover {
   background: #ddd;
-}
+}*/

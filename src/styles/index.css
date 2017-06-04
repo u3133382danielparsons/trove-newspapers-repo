@@ -1,24 +1,37 @@
 * {
   margin-top: 0 !important; }
 
-body {
-  background-color: #f8ffff; }
+html {
+  height: 100%; }
 
-.flex-container {
+.content {
+  flex: 1 0 auto;
+  padding: 20px; }
+
+header, footer {
+  padding: 20px; }
+
+body {
+  background-color: #f8ffff;
+  height: 100%;
+  display: flex;
+  flex-direction: column; }
+
+/*.flex-container {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   align-items: stretch;
   min-height: 1000px;
-  height: 100%; }
-
-/* ##### Search ##### */
+  height: 100%;
+}
 header {
   background: #3498db;
   margin-bottom: 2rem;
   height: 60px;
-  width: 100%; }
-
+  width: 100%
+}*/
+/* ##### Search ##### */
 header h1 {
   padding-top: .2em;
   text-align: center; }
@@ -34,14 +47,13 @@ input[type='text'] {
   width: calc(100% - 2rem);
   height: 4rem; }
 
-/* ##### NamesList ##### */
+/* ##### NewspapersList ##### */
 ul {
   padding: 0; }
 
 li {
   position: relative;
   list-style: none;
-  display: inline-block;
   outline: none;
   padding: 0.25rem 0.75rem;
   margin: 5px;
@@ -159,7 +171,7 @@ li.nat, li.int {
 li.nat:hover, li.int:hover {
   background: #333333; }
 
-/* ##### Favourites ##### */
+/* ##### Favourites #####
 .favourites li:hover:before {
   content: '\00D7';
   position: absolute;
@@ -174,30 +186,31 @@ li.nat:hover, li.int:hover {
   vertical-align: middle;
   border-radius: 50%;
   background: #ff6347;
-  border: solid 2px #ffffff;
-  color: #ffffff;
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3); }
-
+  border: solid 2px $white;
+  color: $white;
+  box-shadow: 0 0 6px rgba(0,0,0,0.3);
+}
 .favourites h4 {
   padding: 1rem 0;
   font-weight: 400;
   font-size: 1.3rem;
   margin: 0;
-  color: #b3b3b3; }
-
+  color: #b3b3b3;
+}
 .favourites hr {
   border-bottom: 0;
   border-top: solid 1px #e6e6e6;
-  margin: 1.75rem 0; }
+  margin: 1.75rem 0;
+}
 
-/* ##### Footer ##### */
+ ##### Footer ##### 
 .credit {
   padding: 1rem 0;
-  color: #b3b3b3; }
-
+  color: #b3b3b3;
+}
 .credit a {
-  color: #3498db; }
-
+  color: #3498db;
+}
 button {
   background: #d7d7d7;
   color: #3b3b3b;
@@ -205,11 +218,12 @@ button {
   font-size: 0.8rem;
   border: solid 1px #c7c7c7;
   margin: 1rem 0;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   border-radius: 3px;
-  outline: none; }
-
+  outline: none;
+}
 button:hover {
-  background: #ddd; }
+  background: #ddd;
+}*/
 
 /*# sourceMappingURL=index.css.map */

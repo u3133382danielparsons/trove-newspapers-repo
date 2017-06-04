@@ -1,12 +1,13 @@
 import React, { Component } from 'react'
 import './App.css'
 import NewspapersList from './components/NewspapersList'
+import Credit from './components/Credits'
 
 class App extends Component {
   render() {
 
     return(
-      <div>
+      <div className="content">
         <header>
           <h1>
             Trove Newspapers
@@ -17,6 +18,9 @@ class App extends Component {
             <NewspapersList data={this.props.data} />
           </main>
         </div>
+        <footer>
+          <Credit />
+        </footer>
       </div>
     )
 
