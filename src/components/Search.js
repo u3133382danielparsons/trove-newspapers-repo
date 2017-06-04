@@ -1,18 +1,20 @@
 import React, { Component } from 'react'
 
 class Search extends Component{
-  filterUpdate(){
-    const val = this.myValue.value
-    this.props.filterUpdate(val)
-  }
   render(){
-    console.log('filterText value', this.props.filterText)
+    const { filterVal, filterUpdate} = this.props
     return(
       <form>
-        <input type="text"
-                placeholder="Type to filter. . ."
-                ref={(value) => {this.myValue = value}}
-                onChange={this.filterUpdate.bind(this)}/>
+      <input
+        type='text'
+        ref='filterInput'
+        placeholder='Type to filter..'
+        // binding the input value to state
+        value={filterVal}
+        onChange={() => {
+         filterUpdate(this.refs.filterInput.value)
+        }}
+      /> 
       </form>
     )
   }
