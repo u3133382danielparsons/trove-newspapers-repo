@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-// import './App.css'
 import Search from './components/Search'
 import ShortList from './components/ShortList'
 import NewspapersList from './components/NewspapersList'
@@ -9,7 +8,7 @@ class App extends Component {
   constructor(props){
     super(props)
     this.state = {
-      filterText: 'hello'
+      filterText: ''
     }
   }
   filterUpdate(value){

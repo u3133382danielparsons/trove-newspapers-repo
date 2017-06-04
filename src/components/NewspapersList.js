@@ -1,25 +1,22 @@
 import React, { Component } from 'react'
 
-class NewspapersList extends Component {
+export default ({data, filterText}) => {
 
-  render(){
-
-      const {data} = this.props
-      console.log("We should see the data here", data )
-      const NewspapersList = data.map(newspaper => {
+      const newspapersList = data
+        .filter(newspaper => {
+          return newspaper.title.toLowerCase().indexOf(filterText.toLowerCase()) >= 0
+        })
+        .map(newspaper => {
         return(
           <li key={newspaper.id} className={newspaper.place}>{newspaper.title}</li>
         )
       })
       return (
           <div>
-            <p>filterText value is: {this.props.filterText}</p>
             <ul>
-              {NewspapersList}
+              {newspapersList}
             </ul>
           </div>
       )
-  }
-}
 
-export default NewspapersList
+}
