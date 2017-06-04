@@ -1,19 +1,11 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from 'react'
+import './App.css'
+import NewspapersList from './components/NewspapersList'
 
 class App extends Component {
   render() {
-    const {data} = this.props;
-    const NamesList = data.map(name => {
-      return(
-        <li key={name.id} className={name.place}>{name.title}</li>
-      )
-    })
 
-
-
-
-    return (
+    return(
       <div>
         <header>
           <h1>
@@ -22,14 +14,13 @@ class App extends Component {
         </header>
         <div className="flex-container">
           <main>
-            <ul>
-              {NamesList}
-            </ul>
+            <NewspapersList data={this.props.data} />
           </main>
         </div>
       </div>
-    );
+    )
+
   }
 }
 
-export default App;
+export default App
