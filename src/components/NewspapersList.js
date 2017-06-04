@@ -12,9 +12,12 @@ class NewspapersList extends Component {
         )
       })
       return (
-              <ul>
-                {NewspapersList}
-              </ul>
+          <div>
+            <p>filterText value is: {this.props.filterText}</p>
+            <ul>
+              {NewspapersList}
+            </ul>
+          </div>
       )
   }
 }
