@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
-import './App.css'
+// import './App.css'
+import Search from './components/Search'
+import ShortList from './components/ShortList'
 import NewspapersList from './components/NewspapersList'
 import Credit from './components/Credits'
 
@@ -12,9 +14,11 @@ class App extends Component {
           <h1>
             Trove Newspapers
           </h1>
+          <Search />
         </header>
         <div className="flex-container">
           <main>
+            <ShortList />
             <NewspapersList data={this.props.data} />
           </main>
         </div>
