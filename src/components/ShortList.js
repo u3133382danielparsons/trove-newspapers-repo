@@ -21,8 +21,8 @@ export default ({
     <div className="favourites">
       <h4>
         {hasFavourites
-          ? 'Your Shortlist'
-          : 'Click on a name to shortlist it..'
+          ? 'Your Shortlist - Click on a shortlisted newspaper to delete it..'
+          : 'Click on a newspaper to shortlist it..'
         }
       </h4>
       <ul>
